@@ -9,7 +9,9 @@ Currently on sabbatical at the University of Edinburgh (2025-2026)
 
 ::: {.columns}
 ::: {.column width="68%"}
-I am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. Alongside this, I work on phenology and climate change and help build open research infrastructure, including the COMPADRE and COMADRE projects and the R packages Rcompadre, Rage, and mpmsim.
+I am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases and develop R tools including Rcompadre, Rage, and mpmsim, which are widely used in comparative demography.
+
+I lead a research group working on demography, life-history evolution, and phenology, and have supervised four postdoctoral researchers, four PhD students, and more than thirty MSc graduates.
 
 ## Selected links
 
@@ -22,13 +24,11 @@ Prizes: BES Elton Prize (2016) and PNAS Cozzarelli Prize (2016)
 
 ## Current interests
 
-Current work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data.
-
-Current funding: Danish Independent Research Fund (DFF) project on individual variation in woodland phenology under climate change; Novo Nordisk Foundation sabbatical project on global phenological shifts from large open datasets.
+Current work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets.
 
 ## Open science, data, and software
 
-I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are used internationally in comparative demographic research. See [Data & Tools](data-tools.qmd) for an overview.
+I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See [Data & Tools](data-tools.qmd) for an overview.
 
 ## For students and collaborators
 

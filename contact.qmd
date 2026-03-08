@@ -2,8 +2,6 @@
 title: "Contact"
 ---
 
-<!-- Replace all placeholders here before publication. -->
-
 ## Affiliation
 
 Department of Biology  
@@ -20,4 +18,4 @@ University of Southern Denmark
 - [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5720-4686)
 
-Email is the best way to get in touch.
+Note: I am currently on sabbatical at the University of Edinburgh (2025-2026). Email is the best way to get in touch.

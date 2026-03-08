@@ -28,13 +28,45 @@ I contribute to methods that integrate demographic, phylogenetic, and phenologic
 
 Current funded projects include a DFF-supported study of drivers of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project using large open datasets to quantify global phenological shifts. Ongoing collaborative work addresses the diversity of ageing across taxa, links between social organisation and lifespan in mammals, and continued development of the COMPADRE and COMADRE databases.
 
+## Research funding
+
+- Danish Independent Research Fund (DFF): individual variation in woodland phenology under climate change (active)
+- Novo Nordisk Foundation: sabbatical project on global phenological shifts from large open datasets (active)
+
 ## Prizes and recognition
 
-- BES Elton Prize (2016) for [Salguero-Gomez, Jones et al. J. Anim. Ecol.](http://dx.doi.org/10.1111/1365-2745.12334)
-- PNAS Cozzarelli Prize (2016) for [Colchero et al. 2016 PNAS](http://dx.doi.org/10.1073/pnas.1612191113)
-- SORTEE Open Science Researcher Award, finalist, 2023 
+- BES Elton Prize (2016) for [Salguero-Gomez et al. (2016), *Journal of Animal Ecology*](http://dx.doi.org/10.1111/1365-2745.12334)
+- PNAS Cozzarelli Prize (2016) for [Colchero et al. (2016), *PNAS*](http://dx.doi.org/10.1073/pnas.1612191113)
+- SORTEE Open Science Researcher Award, finalist (2023)
 - Nominated for videnskab.dk Danish research result of the year 2014.
 
 ## Publications
 
-For full and up-to-date publications, see [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ).
+Selected publications:
+
+- Jones et al. (2014). Diversity of ageing across the tree of life. *Nature*, 505, 169-173. [DOI](https://doi.org/10.1038/nature12789)  
+  Demonstrated that ageing is not biologically inevitable, documenting strikingly diverse senescence trajectories, including negligible and negative ageing, across 46 species spanning the tree of life.
+- Colchero et al. (2016). The emergence of longevous populations. *PNAS*, 113, E7681-E7690. [DOI](https://doi.org/10.1073/pnas.1612191113)  
+  PNAS Cozzarelli Prize 2016. Showed that the compression of mortality in human populations, the basis of modern longevity, has deep parallels in other long-lived species, linking human demography to broader evolutionary biology.
+- Salguero-Gomez et al. (2016). COMADRE: a global database of animal demography. *Journal of Animal Ecology*, 85, 371-384. [DOI](https://doi.org/10.1111/1365-2656.12482)  
+  BES Elton Prize 2016. Introduced the COMADRE database, now a foundational resource for comparative animal demography used by researchers worldwide.
+- Salguero-Gomez et al. (2015). The COMPADRE Plant Matrix Database. *Journal of Ecology*, 103, 202-218. [DOI](https://doi.org/10.1111/1365-2745.12334)  
+  Established COMPADRE as the primary open repository for plant demographic data, enabling a new era of cross-species comparative plant demography.
+- Salguero-Gomez et al. (2016). Fast-slow continuum and reproductive strategies structure plant life-history variation worldwide. *PNAS*, 113, 230-235. [DOI](https://doi.org/10.1073/pnas.1506215112)  
+  Revealed that plant life-history diversity is organised along two orthogonal axes, the fast-slow continuum and a reproductive strategy axis, providing a unifying framework for comparative plant demography.
+- Healy et al. (2019). Animal life history is shaped by the pace of life and the distribution of age-specific mortality and reproduction. *Nature Ecology & Evolution*, 3, 1217-1224. [DOI](https://doi.org/10.1038/s41559-019-0938-7)  
+  Showed that the pace-of-life framework alone is insufficient to explain life-history diversity, identifying age-specific mortality patterns as a key additional axis structuring animal life histories.
+- Stott et al. (2024). Life histories not just fast or slow. *Trends in Ecology & Evolution*, 39, 830-840. [DOI](https://doi.org/10.1016/j.tree.2024.06.001)  
+  A synthesis challenging the sufficiency of the fast-slow continuum and arguing for a more multidimensional understanding of life-history structure across taxa.
+- Jones et al. (2022). Rcompadre and Rage: two R packages to facilitate the use of the COMPADRE and COMADRE databases. *Methods in Ecology & Evolution*, 13, 770-781. [DOI](https://doi.org/10.1111/2041-210X.13792)  
+  Described R infrastructure underpinning open demographic analysis, making COMPADRE and COMADRE accessible through reproducible, documented workflows.
+- Jones (2025). mpmsim: an R package for simulating matrix population models. *Methods in Ecology & Evolution*, 16, 904-911. [DOI](https://doi.org/10.1111/2041-210X.70030)  
+  Introduced a flexible simulation framework for matrix population models, supporting teaching, sensitivity analysis, and methods development in demographic research.
+- Jackson et al. (2022). Life-history predicts global population responses to the weather in terrestrial mammals. *eLife*, 11. [DOI](https://doi.org/10.7554/eLife.74161)  
+  Demonstrated that life-history position on the fast-slow continuum predicts how strongly mammal populations respond to weather variation, linking evolutionary theory to applied conservation demography.
+- Gascoigne et al. (2023). A standard protocol to report discrete stage-structured demographic information. *Methods in Ecology & Evolution*, 14, 2065-2083. [DOI](https://doi.org/10.1111/2041-210X.14164)  
+  Established community-wide reporting standards for demographic data, improving reproducibility and comparability across the demographic literature.
+- Phillimore et al. (2010). Differences in spawning date between populations of common frog reveal local adaptation. *PNAS*, 107, 8292-8297. [DOI](https://doi.org/10.1073/pnas.0913792107)  
+  Provided evidence of local adaptation in phenological timing, helping establish an empirical foundation for later work on phenology and environmental change.
+
+For a full and up-to-date list, see [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ).

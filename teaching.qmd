@@ -2,18 +2,16 @@
 title: "Teaching"
 ---
 
-<!-- Keep this list aligned with current modules and teaching responsibilities. -->
+My teaching is centred on quantitative ecology, demographic methods, and reproducible data analysis. I lead core and advanced courses at the University of Southern Denmark, and have developed open course books and interactive resources that are freely available to students and researchers.
 
-My teaching interests are centred on quantitative ecology, demographic methods, and clear scientific communication.
+## Current and recent courses
 
-Likely teaching areas include:
+- Population Biology and Evolution (BB512) - compulsory second-year course
+- Data Handling, Visualisation and Statistics (BB852) - compulsory master's course
+- Introduction to Biodemography - elective third-year course
+- Quantitative Conservation Ecology - elective master's course
 
-- Population Biology and Evolution
-- Introduction to Biodemography
-- Quantitative Conservation Ecology
-- Data Handling, Visualisation and Statistics
-
-I support open teaching materials where appropriate, particularly for quantitative ecology and R-based analysis.
+The course books and interactive Shiny applications below are openly published and freely available.
 
 ## Course resources
 

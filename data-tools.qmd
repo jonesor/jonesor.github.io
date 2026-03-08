@@ -2,7 +2,7 @@
 title: "Data & Tools"
 ---
 
-This page highlights software, data resources, and reproducible workflows connected to my research and teaching.
+This page highlights infrastructure I have helped build for the field, including open demographic databases, analytical R packages, and publicly available teaching resources.
 
 ## R packages
 
@@ -14,7 +14,7 @@ I develop and maintain R tools for demographic analysis and simulation:
 
 ## Demographic databases
 
-COMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix population models used in comparative demography worldwide. I have co-led both projects since 2010. Together they contain thousands of population models from hundreds of species and underpin a growing body of demographic research. Access both databases at [compadre-db.org](https://compadre-db.org).
+COMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix population models used in comparative demography worldwide. I have co-led both projects since 2010. Together they contain thousands of population models from hundreds of species and underpin a large and growing body of comparative demographic research. Access both databases at [compadre-db.org](https://compadre-db.org).
 
 ## Open science and archived code
 
