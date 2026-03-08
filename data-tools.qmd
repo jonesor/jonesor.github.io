@@ -21,3 +21,10 @@ COMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix
 ## Open science and archived code
 
 Code and software are maintained openly through GitHub repositories, and project outputs are archived where possible to support reproducibility and reuse. See [GitHub](https://github.com/jonesor) for current repositories.
+
+## Teaching books and apps
+
+Open teaching resources are available for:
+
+- Population Biology and Evolution: [Book](https://jonesor.github.io/BB512_Book/) | [Shiny apps](https://jonesor.shinyapps.io/bb512suite/)
+- Data Handling, Visualisation and Statistics: [Book](https://jonesor.github.io/BB852_Book/) | [Shiny apps](https://jonesor.shinyapps.io/bb852suite/)

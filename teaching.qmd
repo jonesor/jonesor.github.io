@@ -14,3 +14,10 @@ Likely teaching areas include:
 - Data Handling, Visualisation and Statistics
 
 I support open teaching materials where appropriate, particularly for quantitative ecology and R-based analysis.
+
+## Course resources
+
+- Population Biology and Evolution book: [BB512 Book](https://jonesor.github.io/BB512_Book/)
+- Data Handling, Visualisation and Statistics book: [BB852 Book](https://jonesor.github.io/BB852_Book/)
+- Population Biology and Evolution apps: [BB512 Shiny suite](https://jonesor.shinyapps.io/bb512suite/)
+- Data Handling, Visualisation and Statistics apps: [BB852 Shiny suite](https://jonesor.shinyapps.io/bb852suite/)

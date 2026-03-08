@@ -35,6 +35,11 @@ I maintain and contribute to open tools and workflows for demographic analysis, 
 ## For students and collaborators
 
 I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See [Students & Collaboration](students-collaboration.qmd) for guidance.
+
+## Teaching resources
+
+- Population Biology and Evolution: [Book](https://jonesor.github.io/BB512_Book/) | [Shiny apps](https://jonesor.shinyapps.io/bb512suite/)
+- Data Handling, Visualisation and Statistics: [Book](https://jonesor.github.io/BB852_Book/) | [Shiny apps](https://jonesor.shinyapps.io/bb852suite/)
 :::
 
 ::: {.column width="32%"}
