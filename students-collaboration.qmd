@@ -4,27 +4,69 @@ title: "Students & Collaboration"
 
 I lead a research group working on demography, life-history evolution, and phenology. To date I have supervised four postdoctoral researchers, four PhD students, and more than thirty MSc graduates, across topics including comparative plant demography, woodland phenology, and mammalian ageing.
 
-I welcome enquiries from prospective students and collaborators whose interests align with these themes.
+## Postdoctoral opportunities
+
+Postdoc positions in my group are funded through external research grants and are advertised as fixed-term posts when available. I also welcome enquiries from candidates who wish to apply for independent fellowships with me as host supervisor.
+
+### Advertised postdoc positions
+
+Funded postdoc positions are advertised through the [SDU job portal](https://jobportal.sdu.dk) and academic job sites such as [Academic Positions](https://academicpositions.com) when available.
+
+Current funding from the Danish Independent Research Fund (DFF) and the Novo Nordisk Foundation supports research in woodland phenology and global demographic patterns. Positions linked to these projects are announced through official channels.
+
+Current status: please check the SDU job portal and Academic Positions for the latest openings, or email to express interest ahead of future calls.
+
+### Independent fellowship routes
+
+I am happy to support applications for independent postdoctoral fellowships. Relevant schemes include:
+
+- DFF Postdoc grants (Danmarks Frie Forskningsfond)
+- Marie Sklodowska-Curie Postdoctoral Fellowships (Horizon Europe)
+- Carlsberg Foundation postdoctoral fellowships
+- Novo Nordisk Foundation postdoctoral schemes
+
+If you are considering applying to one of these schemes with my group as host, please contact me well in advance of the deadline (ideally at least two to three months) so we have time to develop a strong joint application.
+
+### What I look for in a postdoc
+
+Strong postdoc candidates in my group typically have:
+
+- a completed PhD in ecology, evolutionary biology, demography, or a closely related field
+- solid quantitative skills, including experience with R and statistical modelling
+- a track record of publishing in peer-reviewed journals
+- a focused research question and a clear connection to ongoing work in the group
+
+I aim to support postdocs in developing an independent research profile, including their own grant applications and collaborative networks. Postdocs are expected to contribute to the group's collaborative projects while pursuing their own research directions.
+
+## Prospective PhD students
+
+PhD positions in my group are advertised as funded posts, typically linked to externally funded research projects. Advertisements appear on the [SDU job portal](https://jobportal.sdu.dk) and major academic job platforms such as [Academic Positions](https://academicpositions.com).
+
+I encourage interested candidates to follow these channels and to contact me in advance of a formal call if they have strong relevant background in demography, quantitative ecology, life-history evolution, or phenology.
+
+## Industrial PhD
+
+The Danish Industrial PhD scheme supports three-year doctoral projects co-developed with a company partner. If you are affiliated with, or can identify, a relevant industry partner, I am open to discussing potential co-supervision arrangements through this route.
 
 ## Before contacting me
 
-Please read my research overview and send a concise message outlining your specific interests, relevant background, and why there is a good fit with my work.
+If you would like to get in touch ahead of a formal application, a short message explaining your background, your specific interests, and why my research programme is a good fit is the most useful starting point.
 
 Include:
 
 - your current role and institution
-- a short description of your research interests or project idea
-- relevant methods or data experience (for example R, modelling, field/lab systems)
-- practical details such as expected timing and funding context (if known)
-
-## Prospective PhD students
-
-Strong enquiries usually include a focused problem, awareness of the relevant literature, and clear motivation for joining this research area. If you are considering doctoral study, it helps to outline one or two well-defined directions rather than a broad generic statement.
+- your methodological background (for example R, statistical modelling, demographic analysis)
+- your thematic interests and how they connect to my group's work
+- practical details such as expected timing and funding route (if known)
 
 ## Collaboration enquiries
 
 I am open to collaborations that are methodologically clear and scientifically specific, especially where there is strong complementarity in data, theory, or analytical expertise.
 
+Relevant formats include visiting researcher arrangements, Horizon Europe consortium work, and co-supervision with Nordic and other international partner institutions.
+
 ## Email enquiries
 
 Focused, tailored emails are especially helpful. A short, well-prepared message is the best starting point.
+
+Last updated: 8 March 2026.
