@@ -18,21 +18,21 @@
     "href": "data-tools.html#demographic-databases",
     "title": "Data & Tools",
     "section": "Demographic databases",
-    "text": "Demographic databases\nCOMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix population models used in comparative demography worldwide. I have co-led both projects since 2010. Together they contain thousands of population models from hundreds of species and underpin a large and growing body of comparative demographic research. Access both databases at compadre-db.org."
+    "text": "Demographic databases\nCOMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix population models used in comparative demography worldwide. I have co-led both projects since 2010 alongside Rob Salguero-Gómez. Together these databases contain thousands of population models from hundreds of species and underpin a large and growing body of comparative demographic research. Access both databases at compadre-db.org."
   },
   {
     "objectID": "data-tools.html#open-science-and-archived-code",
     "href": "data-tools.html#open-science-and-archived-code",
     "title": "Data & Tools",
     "section": "Open science and archived code",
-    "text": "Open science and archived code\nCode and software are maintained openly through GitHub repositories, and project outputs are archived where possible to support reproducibility and reuse. See GitHub for current repositories."
+    "text": "Open science and archived code\nI maintain code and software openly through GitHub, and archive project outputs on Zenodo and the Open Science Forum where possible to support reproducibility, transparency, and reuse. This reflects a broader commitment to open science as a practice rather than just a principle — from version-controlled analysis pipelines and documented workflows to openly published course materials and archived datasets. Shared code is written with reuse in mind, and where possible I aim to make analysis reproducible from raw data to final output. See GitHub for current repositories."
   },
   {
     "objectID": "data-tools.html#teaching-books-and-apps",
     "href": "data-tools.html#teaching-books-and-apps",
     "title": "Data & Tools",
     "section": "Teaching books and apps",
-    "text": "Teaching books and apps\nOpen teaching resources are available for:\n\nPopulation Biology and Evolution: Book | Shiny apps\nData Handling, Visualisation and Statistics: Book | Shiny apps"
+    "text": "Teaching books and apps\nI have developed open, freely available course books and interactive Shiny applications for two core courses at the University of Southern Denmark. These resources are publicly accessible and have been used by students and researchers beyond SDU. The Shiny app suites allow students to explore demographic and statistical concepts interactively, without requiring programming experience, making quantitative methods more approachable at early stages of training.\n\nPopulation Biology and Evolution: Book | Shiny apps\nData Handling, Visualisation and Statistics: Book | Shiny apps"
   },
   {
     "objectID": "students-collaboration.html",
@@ -46,35 +46,28 @@
     "href": "students-collaboration.html#prospective-phd-students",
     "title": "Students & Collaboration",
     "section": "Prospective PhD students",
-    "text": "Prospective PhD students\nPhD positions in my group are advertised as funded posts, typically linked to externally funded research projects. Advertisements appear on the SDU job portal and major academic job platforms such as Academic Positions.\nI encourage interested candidates to follow these channels and to contact me in advance of a formal call if they have strong relevant background in demography, quantitative ecology, life-history evolution, or phenology."
-  },
-  {
-    "objectID": "students-collaboration.html#before-contacting-me",
-    "href": "students-collaboration.html#before-contacting-me",
-    "title": "Students & Collaboration",
-    "section": "Before contacting me",
-    "text": "Before contacting me\nIf you would like to get in touch ahead of a formal application, a short message explaining your background, your specific interests, and why my research programme is a good fit is the most useful starting point.\nInclude:\n\nyour current role and institution\nyour methodological background (for example R, statistical modelling, demographic analysis)\nyour thematic interests and how they connect to my group’s work\npractical details such as expected timing and funding route (if known)"
+    "text": "Prospective PhD students\nPhD positions in my group are advertised as funded posts, typically linked to externally funded research projects. Advertisements appear on the SDU job portal and platforms such as Academic Positions.\nI encourage interested candidates to follow these channels and to contact me in advance of a formal call if they have a strong background in demography, quantitative ecology, life-history evolution, or phenology."
   },
   {
     "objectID": "students-collaboration.html#postdoctoral-opportunities",
     "href": "students-collaboration.html#postdoctoral-opportunities",
     "title": "Students & Collaboration",
     "section": "Postdoctoral opportunities",
-    "text": "Postdoctoral opportunities\nPostdoc positions in my group are funded through external research grants and are advertised as fixed-term posts when available. I also welcome enquiries from candidates who wish to apply for independent fellowships with me as host supervisor.\n\nAdvertised postdoc positions\nFunded postdoc positions are advertised through the SDU job portal and academic job sites such as Academic Positions when available.\nCurrent funding from the Danish Independent Research Fund (DFF) and the Novo Nordisk Foundation supports research in woodland phenology and global demographic patterns. Positions linked to these projects are announced through official channels.\nCurrent status: please check the SDU job portal and Academic Positions for the latest openings, or email to express interest ahead of future calls.\n\n\nIndependent fellowship routes\nI am happy to support applications for independent postdoctoral fellowships. Relevant schemes include:\n\nDFF Postdoc grants (Danmarks Frie Forskningsfond)\nMarie Sklodowska-Curie Postdoctoral Fellowships (Horizon Europe)\nCarlsberg Foundation postdoctoral fellowships\nNovo Nordisk Foundation postdoctoral schemes\n\nIf you are considering applying to one of these schemes with my group as host, please contact me well in advance of the deadline (ideally at least 3-6 months) so we have time to develop a strong joint application.\n\n\nWhat I look for in a postdoc/fellow candidate\nStrong postdoc candidates in my group typically have:\n\na completed PhD in ecology, evolutionary biology, demography, or a closely related field\nsolid quantitative skills, including experience with R and statistical modelling\na track record of publishing in peer-reviewed journals\na focused research question and a clear connection to ongoing work in the group\n\nI aim to support postdocs in developing an independent research profile, including their own grant applications and collaborative networks. Postdocs are expected to contribute to the group’s collaborative projects while pursuing their own research directions."
+    "text": "Postdoctoral opportunities\nFunded postdoc positions are advertised through the same channels when available. Current funding from the Danish Independent Research Fund (DFF) and the Novo Nordisk Foundation supports research in woodland phenology and global demographic patterns.\nI also welcome enquiries from candidates wishing to apply for independent fellowships hosted in my group. The main route for international researchers is the Marie Skłodowska-Curie Postdoctoral Fellowship (Horizon Europe).\nI have previously supported successful MSCA applications. If you are considering this route, please contact me at least 3–6 months before the deadline.\nStrong postdoc candidates typically have a completed PhD in a relevant field, solid quantitative skills (including R and statistical modelling), a publishing track record, and a focused research question that connects clearly to the group’s work. I aim to support postdocs in developing an independent research profile alongside contributing to collaborative group projects."
   },
   {
-    "objectID": "students-collaboration.html#collaboration-enquiries",
-    "href": "students-collaboration.html#collaboration-enquiries",
+    "objectID": "students-collaboration.html#contacting-me",
+    "href": "students-collaboration.html#contacting-me",
     "title": "Students & Collaboration",
-    "section": "Collaboration enquiries",
-    "text": "Collaboration enquiries\nI am open to collaborations that are methodologically clear and scientifically specific, especially where there is strong complementarity in data, theory, or analytical expertise.\nRelevant formats include visiting researcher arrangements, Horizon Europe consortium work, and co-supervision with Nordic and other international partner institutions."
+    "section": "Contacting me",
+    "text": "Contacting me\nFor both PhD and postdoc enquiries, a short focused message is the most useful starting point. Please include your current role and institution, your methodological background, your thematic interests and how they connect to my group’s work, and any relevant practical details such as timing and funding route."
   },
   {
-    "objectID": "students-collaboration.html#email-enquiries",
-    "href": "students-collaboration.html#email-enquiries",
+    "objectID": "students-collaboration.html#collaboration",
+    "href": "students-collaboration.html#collaboration",
     "title": "Students & Collaboration",
-    "section": "Email enquiries",
-    "text": "Email enquiries\nFocused, tailored emails are especially helpful. A short, well-prepared message is the best starting point.\nLast updated: 8 March 2026."
+    "section": "Collaboration",
+    "text": "Collaboration\nI am open to collaborations with strong methodological or scientific complementarity, including visiting researcher arrangements, Horizon Europe consortium work, and co-supervision with Nordic and international partner institutions.\nLast updated: 8 March 2026."
   },
   {
     "objectID": "research.html",
@@ -88,35 +81,35 @@
     "href": "research.html#demography-and-life-history-evolution",
     "title": "Research",
     "section": "Demography and life history evolution",
-    "text": "Demography and life history evolution\nI study how survival, development, and reproduction combine to shape population trajectories within and across taxa, drawing on long-term field datasets and comparative resources such as COMPADRE and COMADRE. A central aim is to understand how variation in vital rates drives the evolution of life-history strategies across the tree of life."
+    "text": "Demography and life history evolution\nI study how survival, development, and reproduction combine to shape population trajectories within and across taxa, drawing on long-term field datasets and large comparative resources such as COMPADRE and COMADRE. A central aim is to understand how variation in vital rates drives the evolution of life-history strategies across the tree of life. This includes work on the fast-slow continuum of life histories, the axis along which species range from short-lived and fast-reproducing to long-lived and slow-reproducing, and how position on this continuum predicts population responses to environmental change, including weather variability and climate shifts."
   },
   {
     "objectID": "research.html#ageing-across-the-tree-of-life",
     "href": "research.html#ageing-across-the-tree-of-life",
     "title": "Research",
     "section": "Ageing across the tree of life",
-    "text": "Ageing across the tree of life\nI work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. This includes work published in Nature (2014) documenting substantial diversity in ageing trajectories across the tree of life."
+    "text": "Ageing across the tree of life\nI work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. Work published in Nature (2014) documented striking diversity in ageing patterns across 46 species, including cases of negligible and even negative senescence, challenging the long-held assumption that biological ageing is universal and inevitable. Subsequent work has examined longevity in human and non-human populations, the energetic basis of ageing, and the pace and shape of senescence across angiosperms and animals."
   },
   {
     "objectID": "research.html#phenology-and-climate-change",
     "href": "research.html#phenology-and-climate-change",
     "title": "Research",
     "section": "Phenology and climate change",
-    "text": "Phenology and climate change\nA substantial strand of my research examines the timing of life-cycle events and how phenological responses to environmental change affect population dynamics and species interactions."
+    "text": "Phenology and climate change\nA substantial strand of my research examines the timing of life-cycle events, reproduction, migration, flowering, and emergence, and how phenological responses to environmental change affect population dynamics and species interactions. This work spans plants and animals, combines long-term observational datasets with large open resources, and addresses both the proximate drivers of phenological timing and its downstream demographic consequences. Current funded work (DFF; Novo Nordisk Foundation) focuses on individual variation in woodland phenology and global patterns of phenological shift under climate change."
   },
   {
     "objectID": "research.html#open-data-infrastructure",
     "href": "research.html#open-data-infrastructure",
     "title": "Research",
     "section": "Open data infrastructure",
-    "text": "Open data infrastructure\nI co-lead the COMPADRE Plant and COMADRE Animal Matrix Database projects and contribute tools that make demographic data easier to access, analyse, and reproduce."
+    "text": "Open data infrastructure\nI co-lead the COMPADRE Plant and COMADRE Animal Matrix Database projects, open, curated repositories of matrix population models for hundreds of plant and animal species worldwide, used by researchers across the globe and underpinning a growing body of comparative demographic research. I have contributed to this effort since 2010 and have developed associated R packages, Rcompadre, Rage, and mpmsim, that make demographic data accessible and reproducible. This infrastructure work reflects a commitment to cumulative, open science and to lowering barriers to entry for researchers without access to large independent datasets."
   },
   {
     "objectID": "research.html#quantitative-methods",
     "href": "research.html#quantitative-methods",
     "title": "Research",
     "section": "Quantitative methods",
-    "text": "Quantitative methods\nI contribute to methods that integrate demographic, phylogenetic, and phenological data at scale, with particular attention to reproducible workflows in R."
+    "text": "Quantitative methods\nI contribute to the development and dissemination of methods for demographic and life-history analysis, with particular attention to reproducible workflows in R. This includes Bayesian approaches to survival analysis, simulation frameworks for matrix population models, and methods for integrating demographic, phylogenetic, and phenological data at scale. A recurring theme is making methodologically rigorous approaches accessible, through software, open course materials, and published protocols, so that best-practice methods reach a broader research community."
   },
   {
     "objectID": "research.html#current-project-areas",
@@ -172,14 +165,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Department of Biology\nUniversity of Southern Denmark"
+    "text": "Department of Biology\nUniversity of Southern Denmark\nSDU Climate Cluster\nSabbatical affiliation (2025-2026): University of Edinburgh"
   },
   {
     "objectID": "contact.html#affiliation",
     "href": "contact.html#affiliation",
     "title": "Contact",
     "section": "",
-    "text": "Department of Biology\nUniversity of Southern Denmark"
+    "text": "Department of Biology\nUniversity of Southern Denmark\nSDU Climate Cluster\nSabbatical affiliation (2025-2026): University of Edinburgh"
   },
   {
     "objectID": "contact.html#contact-details",
@@ -200,7 +193,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Associate Professor, Department of Biology, University of Southern Denmark\nCurrently on sabbatical at the University of Edinburgh (2025-2026)\n🏆 BES Elton Prize 2016 · PNAS Cozzarelli Prize 2016\n\n\nI am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases — open-data resources underpinning comparative demography worldwide. I serve on the governing board of the Nordic Society Oikos (NSO), the Scientific Committee of the Danish Ornithological Society (DOF), and as Associate Editor at Ecology and Evolution.\nI lead a research group working on demography, life-history evolution, and phenology, and have supervised four postdoctoral researchers, four PhD students, and more than thirty MSc graduates.\n\n\n\nGoogle Scholar\nORCID\nGitHub\nSDU profile\n\nPrizes: BES Elton Prize (2016) and PNAS Cozzarelli Prize (2016)\n\n\n\nCurrent work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets.\n\n\n\nI maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See Data & Tools for an overview.\n\n\n\n\nBaSTA R package\nBaSTA paper in Methods in Ecology and Evolution: DOI\n\n\n\n\nI welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance.\n\n\n\n\nPopulation Biology and Evolution: Book | Shiny apps\nData Handling, Visualisation and Statistics: Book | Shiny apps\n\n\n\n\n\n\n\nOwen R. Jones"
+    "text": "Associate Professor, Department of Biology, University of Southern Denmark\nAffiliated researcher, SDU Climate Cluster\nCurrently on sabbatical at the University of Edinburgh (2025-2026)\n🏆 BES Elton Prize 2016 · PNAS Cozzarelli Prize 2016\n\n\nI am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases — open-data resources underpinning comparative demography worldwide. I serve on the governing board of the Nordic Society Oikos (NSO), the Scientific Committee of the Danish Ornithological Society (DOF), and as Associate Editor at Ecology and Evolution.\nI lead a research group working on demography, life-history evolution, and phenology, and have supervised four postdoctoral researchers, four PhD students, and more than thirty MSc graduates.\n\n\n\nGoogle Scholar\nORCID\nGitHub\nSDU profile\n\nPrizes: BES Elton Prize (2016) and PNAS Cozzarelli Prize (2016)\n\n\n\nCurrent work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets.\n\n\n\nI maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See Data & Tools for an overview.\n\n\n\nI welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance.\n\n\n\n\n\n\nOwen R. Jones"
   },
   {
     "objectID": "index.html#selected-links",
@@ -224,24 +217,10 @@
     "text": "I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See Data & Tools for an overview."
   },
   {
-    "objectID": "index.html#methods-links",
-    "href": "index.html#methods-links",
-    "title": "Home",
-    "section": "",
-    "text": "BaSTA R package\nBaSTA paper in Methods in Ecology and Evolution: DOI"
-  },
-  {
     "objectID": "index.html#for-students-and-collaborators",
     "href": "index.html#for-students-and-collaborators",
     "title": "Home",
     "section": "",
     "text": "I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance."
-  },
-  {
-    "objectID": "index.html#teaching-resources",
-    "href": "index.html#teaching-resources",
-    "title": "Home",
-    "section": "",
-    "text": "Population Biology and Evolution: Book | Shiny apps\nData Handling, Visualisation and Statistics: Book | Shiny apps"
   }
 ]

@@ -2,67 +2,59 @@
 title: "Students & Collaboration"
 ---
 
-I lead a research group working on demography, life-history evolution, and phenology. To date I have supervised four postdoctoral researchers, four PhD students, and more than thirty MSc graduates, across topics including comparative plant demography, woodland phenology, and mammalian ageing.
+I lead a research group working on demography, life-history evolution, 
+and phenology. To date I have supervised four postdoctoral researchers, 
+four PhD students, and more than thirty MSc graduates, across topics 
+including comparative plant demography, woodland phenology, and 
+mammalian ageing.
 
 ## Prospective PhD students
 
-PhD positions in my group are advertised as funded posts, typically linked to externally funded research projects. Advertisements appear on the [SDU job portal](https://www.sdu.dk/en/om-sdu/job-sdu) and major academic job platforms such as [Academic Positions](https://academicpositions.com).
+PhD positions in my group are advertised as funded posts, typically 
+linked to externally funded research projects. Advertisements appear 
+on the [SDU job portal](https://www.sdu.dk/en/om-sdu/job-sdu) and 
+platforms such as [Academic Positions](https://academicpositions.com).
 
-I encourage interested candidates to follow these channels and to contact me in advance of a formal call if they have strong relevant background in demography, quantitative ecology, life-history evolution, or phenology.
-
-## Before contacting me
-
-If you would like to get in touch ahead of a formal application, a short message explaining your background, your specific interests, and why my research programme is a good fit is the most useful starting point.
-
-Include:
-
-- your current role and institution
-- your methodological background (for example R, statistical modelling, demographic analysis)
-- your thematic interests and how they connect to my group's work
-- practical details such as expected timing and funding route (if known)
+I encourage interested candidates to follow these channels and to 
+contact me in advance of a formal call if they have a strong background 
+in demography, quantitative ecology, life-history evolution, or 
+phenology.
 
 ## Postdoctoral opportunities
 
-Postdoc positions in my group are funded through external research grants and are advertised as fixed-term posts when available. I also welcome enquiries from candidates who wish to apply for independent fellowships with me as host supervisor.
+Funded postdoc positions are advertised through the same channels when 
+available. Current funding from the Danish Independent Research Fund 
+(DFF) and the Novo Nordisk Foundation supports research in woodland 
+phenology and global demographic patterns.
 
-### Advertised postdoc positions
+I also welcome enquiries from candidates wishing to apply for 
+independent fellowships hosted in my group. The main route for 
+international researchers is the [Marie Skłodowska-Curie Postdoctoral Fellowship (Horizon Europe)](https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships).
 
-Funded postdoc positions are advertised through the [SDU job portal](https://www.sdu.dk/en/om-sdu/job-sdu) and academic job sites such as [Academic Positions](https://academicpositions.com) when available.
+I have previously supported successful MSCA applications. If you are 
+considering this route, please contact me at least 3–6 months before 
+the deadline.
 
-Current funding from the Danish Independent Research Fund (DFF) and the Novo Nordisk Foundation supports research in woodland phenology and global demographic patterns. Positions linked to these projects are announced through official channels.
+Strong postdoc candidates typically have a completed PhD in a relevant 
+field, solid quantitative skills (including R and statistical 
+modelling), a publishing track record, and a focused research question 
+that connects clearly to the group's work. I aim to support postdocs 
+in developing an independent research profile alongside contributing 
+to collaborative group projects.
 
-Current status: please check the SDU job portal and Academic Positions for the latest openings, or email to express interest ahead of future calls.
+## Contacting me
 
-### Independent fellowship routes
+For both PhD and postdoc enquiries, a short focused message is the 
+most useful starting point. Please include your current role and 
+institution, your methodological background, your thematic interests 
+and how they connect to my group's work, and any relevant practical 
+details such as timing and funding route.
 
-I am happy to support applications for independent postdoctoral fellowships. Relevant schemes include:
+## Collaboration
 
-- DFF Postdoc grants (Danmarks Frie Forskningsfond)
-- Marie Sklodowska-Curie Postdoctoral Fellowships (Horizon Europe)
-- Carlsberg Foundation postdoctoral fellowships
-- Novo Nordisk Foundation postdoctoral schemes
+I am open to collaborations with strong methodological or scientific 
+complementarity, including visiting researcher arrangements, Horizon 
+Europe consortium work, and co-supervision with Nordic and 
+international partner institutions.
 
-If you are considering applying to one of these schemes with my group as host, please contact me well in advance of the deadline (ideally at least 3-6 months) so we have time to develop a strong joint application.
-
-### What I look for in a postdoc/fellow candidate
-
-Strong postdoc candidates in my group typically have:
-
-- a completed PhD in ecology, evolutionary biology, demography, or a closely related field
-- solid quantitative skills, including experience with R and statistical modelling
-- a track record of publishing in peer-reviewed journals
-- a focused research question and a clear connection to ongoing work in the group
-
-I aim to support postdocs in developing an independent research profile, including their own grant applications and collaborative networks. Postdocs are expected to contribute to the group's collaborative projects while pursuing their own research directions.
-
-## Collaboration enquiries
-
-I am open to collaborations that are methodologically clear and scientifically specific, especially where there is strong complementarity in data, theory, or analytical expertise.
-
-Relevant formats include visiting researcher arrangements, Horizon Europe consortium work, and co-supervision with Nordic and other international partner institutions.
-
-## Email enquiries
-
-Focused, tailored emails are especially helpful. A short, well-prepared message is the best starting point.
-
-Last updated: 8 March 2026.
+*Last updated: 8 March 2026.*

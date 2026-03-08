@@ -6,23 +6,23 @@ My research programme centres on demography, life-history evolution, phenology, 
 
 ## Demography and life history evolution
 
-I study how survival, development, and reproduction combine to shape population trajectories within and across taxa, drawing on long-term field datasets and comparative resources such as COMPADRE and COMADRE. A central aim is to understand how variation in vital rates drives the evolution of life-history strategies across the tree of life.
+I study how survival, development, and reproduction combine to shape population trajectories within and across taxa, drawing on long-term field datasets and large comparative resources such as COMPADRE and COMADRE. A central aim is to understand how variation in vital rates drives the evolution of life-history strategies across the tree of life. This includes work on the fast-slow continuum of life histories, the axis along which species range from short-lived and fast-reproducing to long-lived and slow-reproducing, and how position on this continuum predicts population responses to environmental change, including weather variability and climate shifts.
 
 ## Ageing across the tree of life
 
-I work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. This includes work published in *Nature* [(2014)](http://dx.doi.org/10.1038/nature12789) documenting substantial diversity in ageing trajectories across the tree of life.
+I work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. Work published in *Nature* [(2014)](http://dx.doi.org/10.1038/nature12789) documented striking diversity in ageing patterns across 46 species, including cases of negligible and even negative senescence, challenging the long-held assumption that biological ageing is universal and inevitable. Subsequent work has examined longevity in human and non-human populations, the energetic basis of ageing, and the pace and shape of senescence across angiosperms and animals.
 
 ## Phenology and climate change
 
-A substantial strand of my research examines the timing of life-cycle events and how phenological responses to environmental change affect population dynamics and species interactions.
+A substantial strand of my research examines the timing of life-cycle events, reproduction, migration, flowering, and emergence, and how phenological responses to environmental change affect population dynamics and species interactions. This work spans plants and animals, combines long-term observational datasets with large open resources, and addresses both the proximate drivers of phenological timing and its downstream demographic consequences. Current funded work (DFF; Novo Nordisk Foundation) focuses on individual variation in woodland phenology and global patterns of phenological shift under climate change.
 
 ## Open data infrastructure
 
-I co-lead the [COMPADRE Plant and COMADRE Animal Matrix Database projects](https://compadre-db.org) and contribute tools that make demographic data easier to access, analyse, and reproduce.
+I co-lead the [COMPADRE Plant and COMADRE Animal Matrix Database projects](https://compadre-db.org), open, curated repositories of matrix population models for hundreds of plant and animal species worldwide, used by researchers across the globe and underpinning a growing body of comparative demographic research. I have contributed to this effort since 2010 and have developed associated R packages, Rcompadre, Rage, and mpmsim, that make demographic data accessible and reproducible. This infrastructure work reflects a commitment to cumulative, open science and to lowering barriers to entry for researchers without access to large independent datasets.
 
 ## Quantitative methods
 
-I contribute to methods that integrate demographic, phylogenetic, and phenological data at scale, with particular attention to reproducible workflows in R.
+I contribute to the development and dissemination of methods for demographic and life-history analysis, with particular attention to reproducible workflows in R. This includes Bayesian approaches to survival analysis, simulation frameworks for matrix population models, and methods for integrating demographic, phylogenetic, and phenological data at scale. A recurring theme is making methodologically rigorous approaches accessible, through software, open course materials, and published protocols, so that best-practice methods reach a broader research community.
 
 ## Current project areas
 

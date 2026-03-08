@@ -14,15 +14,16 @@ I develop and maintain R tools for demographic analysis and simulation:
 
 ## Demographic databases
 
-COMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix population models used in comparative demography worldwide. I have co-led both projects since 2010. Together they contain thousands of population models from hundreds of species and underpin a large and growing body of comparative demographic research. Access both databases at [compadre-db.org](https://compadre-db.org).
+COMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix population models used in comparative demography worldwide. I have co-led both projects since 2010 alongside [Rob Salguero-Gómez](https://www.biology.ox.ac.uk/people/rob-salguero-gomez). Together these databases contain thousands of population models from hundreds of species and underpin a large and growing body of comparative demographic research. Access both databases at [compadre-db.org](https://compadre-db.org).
 
 ## Open science and archived code
 
-Code and software are maintained openly through GitHub repositories, and project outputs are archived where possible to support reproducibility and reuse. See [GitHub](https://github.com/jonesor) for current repositories.
+I maintain code and software openly through GitHub, and archive project outputs on [Zenodo](https://zenodo.org/)  and the [Open Science Forum](https://osf.io/user/5f4ae) where possible to support reproducibility, transparency, and reuse. This reflects a broader commitment to open science as a practice rather than just a principle — from version-controlled analysis pipelines and documented workflows to openly published course materials and archived datasets. Shared code is written with reuse in mind, and where possible I aim to make analysis reproducible from raw data to final output. See [GitHub](https://github.com/jonesor) for current repositories.
+
 
 ## Teaching books and apps
 
-Open teaching resources are available for:
+I have developed open, freely available course books and interactive Shiny applications for two core courses at the University of Southern Denmark. These resources are publicly accessible and have been used by students and researchers beyond SDU. The Shiny app suites allow students to explore demographic and statistical concepts interactively, without requiring programming experience, making quantitative methods more approachable at early stages of training.
 
 - Population Biology and Evolution: [Book](https://jonesor.github.io/BB512_Book/) | [Shiny apps](https://jonesor.shinyapps.io/bb512suite/)
 - Data Handling, Visualisation and Statistics: [Book](https://jonesor.github.io/BB852_Book/) | [Shiny apps](https://jonesor.shinyapps.io/bb852suite/)
