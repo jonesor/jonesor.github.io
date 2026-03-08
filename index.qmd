@@ -7,9 +7,11 @@ title: "Home"
 Associate Professor, Department of Biology, University of Southern Denmark  
 Currently on sabbatical at the University of Edinburgh (2025-2026)
 
+🏆 BES Elton Prize 2016 · PNAS Cozzarelli Prize 2016
+
 ::: {.columns}
 ::: {.column width="68%"}
-I am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases and develop R tools including Rcompadre, Rage, and mpmsim, which are widely used in comparative demography.
+I am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases — open-data resources underpinning comparative demography worldwide. I serve on the governing board of the [Nordic Society Oikos (NSO)](https://www.nordicsocietyoikos.org/), the Scientific Committee of the [Danish Ornithological Society (DOF)](https://www.dof.dk/), and as Associate Editor at [*Ecology and Evolution*](https://onlinelibrary.wiley.com/journal/20457758).
 
 I lead a research group working on demography, life-history evolution, and phenology, and have supervised four postdoctoral researchers, four PhD students, and more than thirty MSc graduates.
 
@@ -29,6 +31,11 @@ Current work focuses on two funded programmes: a DFF-supported study of individu
 ## Open science, data, and software
 
 I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See [Data & Tools](data-tools.qmd) for an overview.
+
+## Methods links
+
+- [BaSTA R package](https://cran.r-project.org/package=BaSTA)
+- BaSTA paper in *Methods in Ecology and Evolution*: [DOI](https://doi.org/10.1111/j.2041-210X.2012.00186.x)
 
 ## For students and collaborators
 
