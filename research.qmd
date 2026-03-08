@@ -8,11 +8,11 @@ My research programme centres on demography, life-history evolution, phenology, 
 
 ## Demography and life history evolution
 
-I study how survival, development, and reproduction combine to shape population trajectories within and across taxa. A major aim is to understand how variation in vital rates drives the evolution of life-history strategies.
+I study how survival, development, and reproduction combine to shape population trajectories within and across taxa, drawing on long-term field datasets and comparative resources such as COMPADRE and COMADRE. A central aim is to understand how variation in vital rates drives the evolution of life-history strategies across the tree of life.
 
 ## Ageing across the tree of life
 
-I work on comparative questions about senescence and longevity, including why ageing trajectories differ so markedly across species and what this reveals about life-history evolution.
+I work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. This includes work published in *Nature* (2014) documenting substantial diversity in ageing trajectories across the tree of life.
 
 ## Phenology and climate change
 
@@ -28,4 +28,13 @@ I contribute to methods that integrate demographic, phylogenetic, and phenologic
 
 ## Current project areas
 
-Current projects include comparative macrodemography, cross-species analyses of ageing trajectories, phenological responses to climate variability, and method development for large-scale demographic synthesis.
+Current funded projects include a DFF-supported study of drivers of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project using large open datasets to quantify global phenological shifts. Ongoing collaborative work addresses the diversity of ageing across taxa, links between social organisation and lifespan in mammals, and continued development of the COMPADRE and COMADRE databases.
+
+## Prizes and recognition
+
+- BES Elton Prize (2016)
+- PNAS Cozzarelli Prize (2016)
+
+## Publications
+
+For full and up-to-date publications, see [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ).

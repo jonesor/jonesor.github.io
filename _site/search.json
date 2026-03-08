@@ -11,14 +11,14 @@
     "href": "data-tools.html#r-packages",
     "title": "Data & Tools",
     "section": "R packages",
-    "text": "R packages\nI develop and maintain R tools for demographic analysis and simulation, including:\n\nRcompadre\nRage\nmpmsim"
+    "text": "R packages\nI develop and maintain R tools for demographic analysis and simulation:\n\nRcompadre: an R interface to the COMPADRE and COMADRE databases, enabling users to access, filter, and work with large collections of matrix population models. GitHub | CRAN\nRage: tools for calculating life-history traits from matrix population models, including survival, reproductive, and life-table analyses. GitHub | CRAN\nmpmsim: tools for simulating matrix population models under user-defined demographic scenarios for teaching, sensitivity analysis, and methods development. GitHub | CRAN"
   },
   {
     "objectID": "data-tools.html#demographic-databases",
     "href": "data-tools.html#demographic-databases",
     "title": "Data & Tools",
     "section": "Demographic databases",
-    "text": "Demographic databases\nMy work makes extensive use of open comparative resources, including:\n\nCOMPADRE Plant Matrix Database\nCOMADRE Animal Matrix Database\n\nalongside project-specific curated datasets."
+    "text": "Demographic databases\nCOMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix population models used in comparative demography worldwide. I have co-led both projects since 2010. Together they contain thousands of population models from hundreds of species and underpin a growing body of demographic research. Access both databases at compadre-db.org."
   },
   {
     "objectID": "data-tools.html#reproducible-workflows",
@@ -81,14 +81,14 @@
     "href": "research.html#demography-and-life-history-evolution",
     "title": "Research",
     "section": "Demography and life history evolution",
-    "text": "Demography and life history evolution\nI study how survival, development, and reproduction combine to shape population trajectories within and across taxa. A major aim is to understand how variation in vital rates drives the evolution of life-history strategies."
+    "text": "Demography and life history evolution\nI study how survival, development, and reproduction combine to shape population trajectories within and across taxa, drawing on long-term field datasets and comparative resources such as COMPADRE and COMADRE. A central aim is to understand how variation in vital rates drives the evolution of life-history strategies across the tree of life."
   },
   {
     "objectID": "research.html#ageing-across-the-tree-of-life",
     "href": "research.html#ageing-across-the-tree-of-life",
     "title": "Research",
     "section": "Ageing across the tree of life",
-    "text": "Ageing across the tree of life\nI work on comparative questions about senescence and longevity, including why ageing trajectories differ so markedly across species and what this reveals about life-history evolution."
+    "text": "Ageing across the tree of life\nI work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. This includes work published in Nature (2014) documenting substantial diversity in ageing trajectories across the tree of life."
   },
   {
     "objectID": "research.html#phenology-and-climate-change",
@@ -116,7 +116,7 @@
     "href": "research.html#current-project-areas",
     "title": "Research",
     "section": "Current project areas",
-    "text": "Current project areas\nCurrent projects include comparative macrodemography, cross-species analyses of ageing trajectories, phenological responses to climate variability, and method development for large-scale demographic synthesis."
+    "text": "Current project areas\nCurrent funded projects include a DFF-supported study of drivers of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project using large open datasets to quantify global phenological shifts. Ongoing collaborative work addresses the diversity of ageing across taxa, links between social organisation and lifespan in mammals, and continued development of the COMPADRE and COMADRE databases."
   },
   {
     "objectID": "teaching.html",
@@ -158,28 +158,28 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Associate Professor, Department of Biology, University of Southern Denmark\nCurrently on sabbatical at the University of Edinburgh (2025-2026)\n\n\nI am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. Alongside this, I work on phenology and climate change and help build open research infrastructure, including the COMPADRE and COMADRE projects and the R packages Rcompadre, Rage, and mpmsim.\n\n\n\nGoogle Scholar\nORCID\nGitHub\nSDU profile\n\n\n\n\nCurrent work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data.\n\n\n\nI maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. See Data & Tools for an overview.\n\n\n\nI welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance.\n\n\n\n\n\n\nOwen R. Jones"
+    "text": "Associate Professor, Department of Biology, University of Southern Denmark\nCurrently on sabbatical at the University of Edinburgh (2025-2026)\n\n\nI am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. Alongside this, I work on phenology and climate change and help build open research infrastructure, including the COMPADRE and COMADRE projects and the R packages Rcompadre, Rage, and mpmsim.\n\n\n\nGoogle Scholar\nORCID\nGitHub\nSDU profile\n\nPrizes: BES Elton Prize (2016) and PNAS Cozzarelli Prize (2016)\n\n\n\nCurrent work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data.\nCurrent funding: Danish Independent Research Fund (DFF) project on individual variation in woodland phenology under climate change; Novo Nordisk Foundation sabbatical project on global phenological shifts from large open datasets.\n\n\n\nI maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are used internationally in comparative demographic research (including across more than 60 countries; update this figure if needed). See Data & Tools for an overview.\n\n\n\nI welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance.\n\n\n\n\n\n\nOwen R. Jones"
   },
   {
     "objectID": "index.html#selected-links",
     "href": "index.html#selected-links",
     "title": "Home",
     "section": "",
-    "text": "Google Scholar\nORCID\nGitHub\nSDU profile"
+    "text": "Google Scholar\nORCID\nGitHub\nSDU profile\n\nPrizes: BES Elton Prize (2016) and PNAS Cozzarelli Prize (2016)"
   },
   {
     "objectID": "index.html#current-interests",
     "href": "index.html#current-interests",
     "title": "Home",
     "section": "",
-    "text": "Current work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data."
+    "text": "Current work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data.\nCurrent funding: Danish Independent Research Fund (DFF) project on individual variation in woodland phenology under climate change; Novo Nordisk Foundation sabbatical project on global phenological shifts from large open datasets."
   },
   {
     "objectID": "index.html#open-science-data-and-software",
     "href": "index.html#open-science-data-and-software",
     "title": "Home",
     "section": "",
-    "text": "I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. See Data & Tools for an overview."
+    "text": "I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are used internationally in comparative demographic research (including across more than 60 countries; update this figure if needed). See Data & Tools for an overview."
   },
   {
     "objectID": "index.html#for-students-and-collaborators",
@@ -187,5 +187,26 @@
     "title": "Home",
     "section": "",
     "text": "I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance."
+  },
+  {
+    "objectID": "research.html#prizes-and-recognition",
+    "href": "research.html#prizes-and-recognition",
+    "title": "Research",
+    "section": "Prizes and recognition",
+    "text": "Prizes and recognition\n\nBES Elton Prize (2016)\nPNAS Cozzarelli Prize (2016)"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nFor full and up-to-date publications, see Google Scholar."
+  },
+  {
+    "objectID": "data-tools.html#open-science-and-archived-code",
+    "href": "data-tools.html#open-science-and-archived-code",
+    "title": "Data & Tools",
+    "section": "Open science and archived code",
+    "text": "Open science and archived code\nCode and software are maintained openly through GitHub repositories, and project outputs are archived where possible to support reproducibility and reuse. See GitHub for current repositories."
   }
 ]

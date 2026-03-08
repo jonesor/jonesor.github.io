@@ -20,13 +20,17 @@ I am an Associate Professor at the University of Southern Denmark, currently on 
 - [GitHub](https://github.com/jonesor)
 - [SDU profile](https://portal.findresearcher.sdu.dk/en/persons/owen-r-jones/)
 
+Prizes: BES Elton Prize (2016) and PNAS Cozzarelli Prize (2016)
+
 ## Current interests
 
 Current work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data.
 
+Current funding: Danish Independent Research Fund (DFF) project on individual variation in woodland phenology under climate change; Novo Nordisk Foundation sabbatical project on global phenological shifts from large open datasets.
+
 ## Open science, data, and software
 
-I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. See [Data & Tools](data-tools.qmd) for an overview.
+I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are used internationally in comparative demographic research (including across more than 60 countries; update this figure if needed). See [Data & Tools](data-tools.qmd) for an overview.
 
 ## For students and collaborators
 
