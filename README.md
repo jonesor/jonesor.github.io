@@ -6,7 +6,7 @@ Personal academic website of Owen R. Jones, Associate Professor at the Universit
 
 ### Preview in RStudio
 
-1. Open the project in RStudio.
+1. Open the project in RStudio. 
 2. Open any `.qmd` file and click **Render** to preview that page.
 3. For full-site preview, run `quarto preview` in the RStudio Terminal.
 
