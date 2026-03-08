@@ -2,8 +2,6 @@
 title: "Home"
 ---
 
-<!-- Customise this page first: short bio, links, and profile image path. -->
-
 # Owen R. Jones
 
 Associate Professor, Department of Biology, University of Southern Denmark  

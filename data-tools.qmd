@@ -2,8 +2,6 @@
 title: "Data & Tools"
 ---
 
-<!-- Replace placeholder examples with active repositories and resources. -->
-
 This page highlights software, data resources, and reproducible workflows connected to my research and teaching.
 
 ## R packages

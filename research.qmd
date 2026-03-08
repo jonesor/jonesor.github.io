@@ -2,8 +2,6 @@
 title: "Research"
 ---
 
-<!-- Update themes and project focus areas as your programme evolves. -->
-
 My research programme centres on demography, life-history evolution, phenology, and quantitative methods, with emphasis on robust inference and open, reusable scientific infrastructure.
 
 ## Demography and life history evolution
