@@ -1,0 +1,41 @@
+---
+title: "Home"
+---
+
+<!-- Customise this page first: short bio, links, and profile image path. -->
+
+# Owen R. Jones
+
+Associate Professor, Department of Biology, University of Southern Denmark  
+Currently on sabbatical at the University of Edinburgh (2025-2026)
+
+::: {.columns}
+::: {.column width="68%"}
+I am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. Alongside this, I work on phenology and climate change and help build open research infrastructure, including the COMPADRE and COMADRE projects and the R packages Rcompadre, Rage, and mpmsim.
+
+## Selected links
+
+- [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ)
+- [ORCID](https://orcid.org/0000-0001-5720-4686)
+- [GitHub](https://github.com/jonesor)
+- [SDU profile](https://portal.findresearcher.sdu.dk/en/persons/owen-r-jones/)
+
+## Current interests
+
+Current work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data.
+
+## Open science, data, and software
+
+I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. See [Data & Tools](data-tools.qmd) for an overview.
+
+## For students and collaborators
+
+I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See [Students & Collaboration](students-collaboration.qmd) for guidance.
+:::
+
+::: {.column width="32%"}
+::: {.profile-card}
+![Owen R. Jones](images/OwenJones.jpeg){.profile-image}
+:::
+:::
+:::

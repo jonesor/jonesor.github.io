@@ -1,0 +1,32 @@
+---
+title: "Data & Tools"
+---
+
+<!-- Replace placeholder examples with active repositories and resources. -->
+
+This page highlights software, data resources, and reproducible workflows connected to my research and teaching.
+
+## R packages
+
+I develop and maintain R tools for demographic analysis and simulation, including:
+
+- [`Rcompadre`](https://github.com/jonesor/Rcompadre)
+- [`Rage`](https://github.com/jonesor/Rage)
+- [`mpmsim`](https://github.com/jonesor/mpmsim)
+
+## Demographic databases
+
+My work makes extensive use of open comparative resources, including:
+
+- [COMPADRE Plant Matrix Database](https://compadre-db.org)
+- [COMADRE Animal Matrix Database](https://compadre-db.org)
+
+alongside project-specific curated datasets.
+
+## Reproducible workflows
+
+I prioritise transparent, version-controlled workflows for ecological analysis, including demographic modelling pipelines, phenology workflows, and clear computational documentation.
+
+## Open data and archived code
+
+Where possible, data and code are shared through stable repositories to support reuse, scrutiny, and cumulative science. This includes archived analysis code and teaching materials in R.

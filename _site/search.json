@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "data-tools.html",
+    "href": "data-tools.html",
+    "title": "Data & Tools",
+    "section": "",
+    "text": "This page highlights software, data resources, and reproducible workflows connected to my research and teaching."
+  },
+  {
+    "objectID": "data-tools.html#r-packages",
+    "href": "data-tools.html#r-packages",
+    "title": "Data & Tools",
+    "section": "R packages",
+    "text": "R packages\nI develop and maintain R tools for demographic analysis and simulation, including:\n\nRcompadre\nRage\nmpmsim"
+  },
+  {
+    "objectID": "data-tools.html#demographic-databases",
+    "href": "data-tools.html#demographic-databases",
+    "title": "Data & Tools",
+    "section": "Demographic databases",
+    "text": "Demographic databases\nMy work makes extensive use of open comparative resources, including:\n\nCOMPADRE Plant Matrix Database\nCOMADRE Animal Matrix Database\n\nalongside project-specific curated datasets."
+  },
+  {
+    "objectID": "data-tools.html#reproducible-workflows",
+    "href": "data-tools.html#reproducible-workflows",
+    "title": "Data & Tools",
+    "section": "Reproducible workflows",
+    "text": "Reproducible workflows\nI prioritise transparent, version-controlled workflows for ecological analysis, including demographic modelling pipelines, phenology workflows, and clear computational documentation."
+  },
+  {
+    "objectID": "data-tools.html#open-data-and-archived-code",
+    "href": "data-tools.html#open-data-and-archived-code",
+    "title": "Data & Tools",
+    "section": "Open data and archived code",
+    "text": "Open data and archived code\nWhere possible, data and code are shared through stable repositories to support reuse, scrutiny, and cumulative science. This includes archived analysis code and teaching materials in R."
+  },
+  {
+    "objectID": "students-collaboration.html",
+    "href": "students-collaboration.html",
+    "title": "Students & Collaboration",
+    "section": "",
+    "text": "I welcome enquiries from prospective students and collaborators whose interests align with population demography, life-history evolution, phenology, and quantitative ecology."
+  },
+  {
+    "objectID": "students-collaboration.html#before-contacting-me",
+    "href": "students-collaboration.html#before-contacting-me",
+    "title": "Students & Collaboration",
+    "section": "Before contacting me",
+    "text": "Before contacting me\nPlease read my research overview and send a concise message explaining your specific interests, relevant background, and why there is a good fit with my work.\nInclude:\n\nyour current role and institution\na short description of your research interests or project idea\nrelevant methods or data experience (for example R, modelling, field/lab systems)\npractical details such as expected timing and funding context (if known)"
+  },
+  {
+    "objectID": "students-collaboration.html#prospective-phd-students",
+    "href": "students-collaboration.html#prospective-phd-students",
+    "title": "Students & Collaboration",
+    "section": "Prospective PhD students",
+    "text": "Prospective PhD students\nStrong enquiries usually include a focused problem, awareness of the relevant literature, and clear motivation for joining this research area. If you are considering doctoral study, outline your interests in one or two well-defined directions rather than a broad generic statement."
+  },
+  {
+    "objectID": "students-collaboration.html#collaboration-enquiries",
+    "href": "students-collaboration.html#collaboration-enquiries",
+    "title": "Students & Collaboration",
+    "section": "Collaboration enquiries",
+    "text": "Collaboration enquiries\nI am open to collaborations that are methodologically clear and scientifically specific, especially where there is strong complementarity in data, theory, or analytical expertise."
+  },
+  {
+    "objectID": "students-collaboration.html#a-brief-note-on-email-style",
+    "href": "students-collaboration.html#a-brief-note-on-email-style",
+    "title": "Students & Collaboration",
+    "section": "A brief note on email style",
+    "text": "A brief note on email style\nFocused, tailored emails are much more useful than generic mass emails. A short, well-prepared message is the best starting point."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research programme centres on demography, life-history evolution, phenology, and quantitative methods, with emphasis on robust inference and open, reusable scientific infrastructure."
+  },
+  {
+    "objectID": "research.html#demography-and-life-history-evolution",
+    "href": "research.html#demography-and-life-history-evolution",
+    "title": "Research",
+    "section": "Demography and life history evolution",
+    "text": "Demography and life history evolution\nI study how survival, development, and reproduction combine to shape population trajectories within and across taxa. A major aim is to understand how variation in vital rates drives the evolution of life-history strategies."
+  },
+  {
+    "objectID": "research.html#ageing-across-the-tree-of-life",
+    "href": "research.html#ageing-across-the-tree-of-life",
+    "title": "Research",
+    "section": "Ageing across the tree of life",
+    "text": "Ageing across the tree of life\nI work on comparative questions about senescence and longevity, including why ageing trajectories differ so markedly across species and what this reveals about life-history evolution."
+  },
+  {
+    "objectID": "research.html#phenology-and-climate-change",
+    "href": "research.html#phenology-and-climate-change",
+    "title": "Research",
+    "section": "Phenology and climate change",
+    "text": "Phenology and climate change\nA substantial strand of my research examines the timing of life-cycle events and how phenological responses to environmental change affect population dynamics and species interactions."
+  },
+  {
+    "objectID": "research.html#open-data-infrastructure",
+    "href": "research.html#open-data-infrastructure",
+    "title": "Research",
+    "section": "Open data infrastructure",
+    "text": "Open data infrastructure\nI co-lead the COMPADRE Plant and COMADRE Animal Matrix Database projects and contribute tools that make demographic data easier to access, analyse, and reproduce."
+  },
+  {
+    "objectID": "research.html#quantitative-methods",
+    "href": "research.html#quantitative-methods",
+    "title": "Research",
+    "section": "Quantitative methods",
+    "text": "Quantitative methods\nI contribute to methods that integrate demographic, phylogenetic, and phenological data at scale, with particular attention to reproducible workflows in R."
+  },
+  {
+    "objectID": "research.html#current-project-areas",
+    "href": "research.html#current-project-areas",
+    "title": "Research",
+    "section": "Current project areas",
+    "text": "Current project areas\nCurrent projects include comparative macrodemography, cross-species analyses of ageing trajectories, phenological responses to climate variability, and method development for large-scale demographic synthesis."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching interests are centred on quantitative ecology, demographic methods, and clear scientific communication.\nLikely teaching areas include:\n\nPopulation Biology and Evolution\nIntroduction to Biodemography\nQuantitative Conservation Ecology\nData Handling, Visualisation and Statistics\n\nI support open teaching materials where appropriate, particularly for quantitative ecology and R-based analysis."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Department of Biology\nUniversity of Southern Denmark"
+  },
+  {
+    "objectID": "contact.html#affiliation",
+    "href": "contact.html#affiliation",
+    "title": "Contact",
+    "section": "",
+    "text": "Department of Biology\nUniversity of Southern Denmark"
+  },
+  {
+    "objectID": "contact.html#contact-details",
+    "href": "contact.html#contact-details",
+    "title": "Contact",
+    "section": "Contact details",
+    "text": "Contact details\n\nEmail: jones@biology.sdu.dk"
+  },
+  {
+    "objectID": "contact.html#profiles-and-links",
+    "href": "contact.html#profiles-and-links",
+    "title": "Contact",
+    "section": "Profiles and links",
+    "text": "Profiles and links\n\nSDU profile\nGitHub\nGoogle Scholar\nORCID\n\nEmail is the best way to get in touch."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Associate Professor, Department of Biology, University of Southern Denmark\nCurrently on sabbatical at the University of Edinburgh (2025-2026)\n\n\nI am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. Alongside this, I work on phenology and climate change and help build open research infrastructure, including the COMPADRE and COMADRE projects and the R packages Rcompadre, Rage, and mpmsim.\n\n\n\nGoogle Scholar\nORCID\nGitHub\nSDU profile\n\n\n\n\nCurrent work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data.\n\n\n\nI maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. See Data & Tools for an overview.\n\n\n\nI welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance.\n\n\n\n\n\n\nOwen R. Jones"
+  },
+  {
+    "objectID": "index.html#selected-links",
+    "href": "index.html#selected-links",
+    "title": "Home",
+    "section": "",
+    "text": "Google Scholar\nORCID\nGitHub\nSDU profile"
+  },
+  {
+    "objectID": "index.html#current-interests",
+    "href": "index.html#current-interests",
+    "title": "Home",
+    "section": "",
+    "text": "Current work focuses on demography and life-history evolution, ageing across the tree of life, phenology under climate change, and quantitative methods for integrating demographic, phylogenetic, and phenological data."
+  },
+  {
+    "objectID": "index.html#open-science-data-and-software",
+    "href": "index.html#open-science-data-and-software",
+    "title": "Home",
+    "section": "",
+    "text": "I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. See Data & Tools for an overview."
+  },
+  {
+    "objectID": "index.html#for-students-and-collaborators",
+    "href": "index.html#for-students-and-collaborators",
+    "title": "Home",
+    "section": "",
+    "text": "I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance."
+  }
+]

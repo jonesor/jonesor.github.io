@@ -1,0 +1,31 @@
+---
+title: "Research"
+---
+
+<!-- Update themes and project focus areas as your programme evolves. -->
+
+My research programme centres on demography, life-history evolution, phenology, and quantitative methods, with emphasis on robust inference and open, reusable scientific infrastructure.
+
+## Demography and life history evolution
+
+I study how survival, development, and reproduction combine to shape population trajectories within and across taxa. A major aim is to understand how variation in vital rates drives the evolution of life-history strategies.
+
+## Ageing across the tree of life
+
+I work on comparative questions about senescence and longevity, including why ageing trajectories differ so markedly across species and what this reveals about life-history evolution.
+
+## Phenology and climate change
+
+A substantial strand of my research examines the timing of life-cycle events and how phenological responses to environmental change affect population dynamics and species interactions.
+
+## Open data infrastructure
+
+I co-lead the COMPADRE Plant and COMADRE Animal Matrix Database projects and contribute tools that make demographic data easier to access, analyse, and reproduce.
+
+## Quantitative methods
+
+I contribute to methods that integrate demographic, phylogenetic, and phenological data at scale, with particular attention to reproducible workflows in R.
+
+## Current project areas
+
+Current projects include comparative macrodemography, cross-species analyses of ageing trajectories, phenological responses to climate variability, and method development for large-scale demographic synthesis.

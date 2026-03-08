@@ -1,0 +1,17 @@
+# Quarto render cache and local build outputs
+.quarto/
+*_cache/
+
+# RStudio project/user files
+.Rproj.user/
+
+# OS/editor files
+.DS_Store
+*.swp
+
+# Optional: local env folders
+.venv/
+renv/
+
+/.quarto/
+**/*.quarto_ipynb

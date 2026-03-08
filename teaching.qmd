@@ -1,0 +1,16 @@
+---
+title: "Teaching"
+---
+
+<!-- Keep this list aligned with current modules and teaching responsibilities. -->
+
+My teaching interests are centred on quantitative ecology, demographic methods, and clear scientific communication.
+
+Likely teaching areas include:
+
+- Population Biology and Evolution
+- Introduction to Biodemography
+- Quantitative Conservation Ecology
+- Data Handling, Visualisation and Statistics
+
+I support open teaching materials where appropriate, particularly for quantitative ecology and R-based analysis.

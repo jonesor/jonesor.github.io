@@ -1,0 +1,30 @@
+---
+title: "Students & Collaboration"
+---
+
+<!-- Tailor this guidance to your preferred supervision and collaboration process. -->
+
+I welcome enquiries from prospective students and collaborators whose interests align with population demography, life-history evolution, phenology, and quantitative ecology.
+
+## Before contacting me
+
+Please read my research overview and send a concise message explaining your specific interests, relevant background, and why there is a good fit with my work.
+
+Include:
+
+- your current role and institution
+- a short description of your research interests or project idea
+- relevant methods or data experience (for example R, modelling, field/lab systems)
+- practical details such as expected timing and funding context (if known)
+
+## Prospective PhD students
+
+Strong enquiries usually include a focused problem, awareness of the relevant literature, and clear motivation for joining this research area. If you are considering doctoral study, outline your interests in one or two well-defined directions rather than a broad generic statement.
+
+## Collaboration enquiries
+
+I am open to collaborations that are methodologically clear and scientifically specific, especially where there is strong complementarity in data, theory, or analytical expertise.
+
+## A brief note on email style
+
+Focused, tailored emails are much more useful than generic mass emails. A short, well-prepared message is the best starting point.

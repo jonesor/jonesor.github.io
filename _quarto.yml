@@ -1,0 +1,38 @@
+# Quarto website configuration for Owen R. Jones.
+# Update titles, links, and contact details as needed.
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Owen R. Jones"
+  navbar:
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Data & Tools
+        href: data-tools.qmd
+      - text: Students & Collaboration
+        href: students-collaboration.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Contact
+        href: contact.qmd
+  page-footer:
+    # Update footer details here if contact/profile links change.
+    center: |
+      **Owen R. Jones**  
+      Department of Biology, University of Southern Denmark  
+      Email: [jones@biology.sdu.dk](mailto:jones@biology.sdu.dk)  
+      [GitHub](https://github.com/jonesor) | [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ) | [ORCID](https://orcid.org/0000-0001-5720-4686)
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true
+
+lang: en-GB

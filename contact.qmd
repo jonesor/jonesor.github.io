@@ -1,0 +1,23 @@
+---
+title: "Contact"
+---
+
+<!-- Replace all placeholders here before publication. -->
+
+## Affiliation
+
+Department of Biology  
+University of Southern Denmark
+
+## Contact details
+
+- Email: [jones@biology.sdu.dk](mailto:jones@biology.sdu.dk)
+
+## Profiles and links
+
+- [SDU profile](https://portal.findresearcher.sdu.dk/en/persons/owen-r-jones/)
+- [GitHub](https://github.com/jonesor)
+- [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ)
+- [ORCID](https://orcid.org/0000-0001-5720-4686)
+
+Email is the best way to get in touch.
