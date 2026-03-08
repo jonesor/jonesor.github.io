@@ -30,7 +30,7 @@ Current funding: Danish Independent Research Fund (DFF) project on individual va
 
 ## Open science, data, and software
 
-I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are used internationally in comparative demographic research (including across more than 60 countries; update this figure if needed). See [Data & Tools](data-tools.qmd) for an overview.
+I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are used internationally in comparative demographic research. See [Data & Tools](data-tools.qmd) for an overview.
 
 ## For students and collaborators
 

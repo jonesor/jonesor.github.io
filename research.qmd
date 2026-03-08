@@ -12,7 +12,7 @@ I study how survival, development, and reproduction combine to shape population 
 
 ## Ageing across the tree of life
 
-I work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. This includes work published in *Nature* (2014) documenting substantial diversity in ageing trajectories across the tree of life.
+I work on comparative questions about senescence and longevity: why ageing trajectories differ so markedly across species, and what this reveals about life-history evolution. This includes work published in *Nature* [(2014)](http://dx.doi.org/10.1038/nature12789) documenting substantial diversity in ageing trajectories across the tree of life.
 
 ## Phenology and climate change
 
@@ -20,7 +20,7 @@ A substantial strand of my research examines the timing of life-cycle events and
 
 ## Open data infrastructure
 
-I co-lead the COMPADRE Plant and COMADRE Animal Matrix Database projects and contribute tools that make demographic data easier to access, analyse, and reproduce.
+I co-lead the [COMPADRE Plant and COMADRE Animal Matrix Database projects](https://compadre-db.org) and contribute tools that make demographic data easier to access, analyse, and reproduce.
 
 ## Quantitative methods
 
@@ -32,8 +32,10 @@ Current funded projects include a DFF-supported study of drivers of individual v
 
 ## Prizes and recognition
 
-- BES Elton Prize (2016)
-- PNAS Cozzarelli Prize (2016)
+- BES Elton Prize (2016) for [Salguero-Gomez, Jones et al. J. Anim. Ecol.](http://dx.doi.org/10.1111/1365-2745.12334)
+- PNAS Cozzarelli Prize (2016) for [Colchero et al. 2016 PNAS](http://dx.doi.org/10.1073/pnas.1612191113)
+- SORTEE Open Science Researcher Award, finalist, 2023 
+- Nominated for videnskab.dk Danish research result of the year 2014.
 
 ## Publications
 
