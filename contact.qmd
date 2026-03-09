@@ -4,9 +4,9 @@ title: "Contact"
 
 ## Affiliation
 
-Department of Biology  
-University of Southern Denmark  
-SDU Climate Cluster  
+Department of Biology, University of Southern Denmark  
+SDU Climate Cluster
+
 Sabbatical affiliation (2025-2026): University of Edinburgh
 
 ## Contact details
@@ -20,4 +20,3 @@ Sabbatical affiliation (2025-2026): University of Edinburgh
 - [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5720-4686)
 
-Note: I am currently on sabbatical at the University of Edinburgh (2025-2026). Email is the best way to get in touch.

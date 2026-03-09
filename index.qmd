@@ -8,7 +8,7 @@ Associate Professor, Department of Biology, University of Southern Denmark
 Affiliated researcher, SDU Climate Cluster  
 Currently on sabbatical at the University of Edinburgh (2025-2026)
 
-🏆 BES Elton Prize 2016 · PNAS Cozzarelli Prize 2016
+🏆 BES Elton Prize 2016 · 🏆 PNAS Cozzarelli Prize 2016
 
 ::: {.columns}
 ::: {.column width="68%"}
@@ -16,14 +16,12 @@ I am an Associate Professor at the University of Southern Denmark, currently on 
 
 I lead a research group working on demography, life-history evolution, and phenology, and have supervised five postdocs/fellows, four PhD students, and more than thirty MSc graduates.
 
-## Selected links
+## Links
 
 - [Google Scholar](https://scholar.google.com/citations?user=W5kTQvoAAAAJ)
 - [ORCID](https://orcid.org/0000-0001-5720-4686)
 - [GitHub](https://github.com/jonesor)
 - [SDU profile](https://portal.findresearcher.sdu.dk/en/persons/owen-r-jones/)
-
-Prizes: BES Elton Prize (2016) and PNAS Cozzarelli Prize (2016)
 
 ## Current interests
 
