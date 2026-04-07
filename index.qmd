@@ -1,5 +1,6 @@
 ---
 title: "Home"
+date-modified: last-modified
 ---
 
 # Owen R. Jones
