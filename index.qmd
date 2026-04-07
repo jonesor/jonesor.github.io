@@ -35,6 +35,10 @@ I maintain and contribute to open tools and workflows for demographic analysis, 
 ## For students and collaborators
 
 I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See [Students & Collaboration](students-collaboration.qmd) for guidance.
+
+## Nest Box Project
+
+I run a long-term nest box monitoring project tracking breeding birds in woodland habitats. See the [Nest Box Project](nest-box-project.qmd) for details.
 :::
 
 ::: {.column width="32%"}
