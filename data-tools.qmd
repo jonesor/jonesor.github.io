@@ -1,5 +1,6 @@
 ---
 title: "Data & Tools"
+date-modified: last-modified
 ---
 
 This page highlights infrastructure I have helped build for the field, including open demographic databases, analytical R packages, and publicly available teaching resources.

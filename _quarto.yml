@@ -34,5 +34,6 @@ format:
     css: styles.css
     toc: false
     link-external-newwindow: true
+    date-format: "D MMMM YYYY"
 
 lang: en-GB

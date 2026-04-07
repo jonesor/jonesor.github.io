@@ -1,5 +1,6 @@
 ---
 title: "Research"
+date-modified: last-modified
 ---
 
 My research programme centres on demography, life-history evolution, phenology, and quantitative methods, with emphasis on robust inference and open, reusable scientific infrastructure.

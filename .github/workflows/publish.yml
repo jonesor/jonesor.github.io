@@ -24,6 +24,13 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
+      - name: Restore file modification times from git history
+        run: |
+          git ls-files '*.qmd' | while read file; do
+            ts=$(git log -1 --format="%ai" -- "$file")
+            touch -d "$ts" "$file"
+          done
+
       - name: Render website
         uses: quarto-dev/quarto-actions/render@v2
 

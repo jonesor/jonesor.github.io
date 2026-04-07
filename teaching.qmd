@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+date-modified: last-modified
 ---
 
 My teaching is centred on quantitative ecology, demographic methods, and reproducible data analysis. I lead core and advanced courses at the University of Southern Denmark, and have developed open course books and interactive resources that are freely available to students and researchers.
