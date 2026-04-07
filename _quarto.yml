@@ -20,6 +20,8 @@ website:
         href: teaching.qmd
       - text: Contact
         href: contact.qmd
+      - text: Nest Box Project
+        href: nest-box-project.qmd
   page-footer:
     # Update footer details here if contact/profile links change.
     center: |
@@ -35,5 +37,8 @@ format:
     toc: false
     link-external-newwindow: true
     date-format: "D MMMM YYYY"
+
+execute:
+  freeze: auto
 
 lang: en-GB
