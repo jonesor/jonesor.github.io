@@ -230,19 +230,23 @@ ggplot(species_summary, aes(x = reorder(species, nest_years), y = nest_years, fi
 
 ## Research outputs
 
-The nest box project has supported ecological field research, student theses, and teaching-led data collection. This section can be expanded over time as outputs accumulate.
+The nest box project has supported ecological field research, student-led projects, and teaching-led data collection. This section can be expanded over time as outputs accumulate.
 
 ### Selected papers
 
-- Add journal article citation here.
+- Corregidor-Castro, A. and Jones, O. R. (2021). The effect of nest temperature on growth and survival in juvenile Great Tits *Parus major*. *Ecology and Evolution*, 11, 7346-7353. [DOI](https://doi.org/10.1002/ece3.7565)  
+  Experimental warming of nests showed that relatively small temperature increases can reduce nestling size and mass, linking early developmental conditions to later performance under climate change.
 - Add journal article citation here.
 - Add methods or field-note publication here.
 
-### Bachelor theses
+### Student project areas
 
-- Add bachelor thesis title, student name, and year here.
-- Add bachelor thesis title, student name, and year here.
-- Add bachelor thesis title, student name, and year here.
+Student research linked to the project has included work on:
+
+- phenology of breeding
+- occupancy and nest preferences
+- foraging behaviour
+- cognition
 
 ## Why it matters
 
