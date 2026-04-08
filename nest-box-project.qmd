@@ -18,7 +18,7 @@ library(tibble)
 # Update them manually here when the public page needs refreshing.
 project_summary <- tibble(
   metric = c("Years monitored", "Box IDs recorded", "Nest visits", "Occupancy peak", "Median first egg"),
-  value  = c("12", "200", "19,487", "86 nests", "Day 112")
+  value  = c("12", "100", "19,487", "86 nests", "Day 112")
 )
 
 occupancy_by_year <- tibble(
@@ -87,6 +87,23 @@ species_summary <- tibble(
   gap: 18px;
   margin: 16px 0 28px 0;
 }
+.nest-photo-card {
+  margin: 0;
+}
+.nest-photo-card-wide {
+  grid-column: 1 / -1;
+}
+.nest-photo-card img {
+  width: 100%;
+  border-radius: 14px;
+  display: block;
+  box-shadow: 0 8px 24px rgba(31, 42, 34, 0.08);
+}
+.nest-photo-card figcaption {
+  color: #5a5a5a;
+  font-size: 0.92rem;
+  margin-top: 0.55rem;
+}
 .nest-map-frame {
   margin: 14px 0 10px 0;
   border: 1px solid var(--border-soft, #dbe2ea);
@@ -104,18 +121,6 @@ species_summary <- tibble(
   color: #5a5a5a;
   font-size: 0.95rem;
   margin-top: 0.5rem;
-}
-.nest-photo-placeholder {
-  min-height: 260px;
-  border: 1px dashed #9aaec1;
-  border-radius: 14px;
-  background: #f7f9fb;
-  color: #5a5a5a;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  padding: 1rem;
 }
 @media (max-width: 900px) {
   .nest-stat-grid {
@@ -184,12 +189,18 @@ The project is based around the woodland and green areas on and around the SDU c
 
 ```{=html}
 <div class="nest-photo-grid">
-  <div class="nest-photo-placeholder">
-    Add project photo here<br><code>images/nest-box-project/fieldwork.jpg</code>
-  </div>
-  <div class="nest-photo-placeholder">
-    Add project photo here<br><code>images/nest-box-project/nest-boxes.jpg</code>
-  </div>
+  <figure class="nest-photo-card nest-photo-card-wide">
+    <img src="images/nestbox_project_01.jpeg" alt="Nest box in spring woodland at the SDU study site">
+    <figcaption>Nest box in the woodland study area at SDU Odense.</figcaption>
+  </figure>
+  <figure class="nest-photo-card">
+    <img src="images/nestbox_project_02.jpeg" alt="Blue Tit handled during fieldwork">
+    <figcaption>Blue Tit recorded during fieldwork associated with the project.</figcaption>
+  </figure>
+  <figure class="nest-photo-card">
+    <img src="images/nestbox_project_03.jpeg" alt="Nestlings inside a monitored nest box">
+    <figcaption>Nestlings inside a monitored nest box during the breeding season.</figcaption>
+  </figure>
 </div>
 ```
 
