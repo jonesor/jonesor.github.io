@@ -1,5 +1,6 @@
 ---
 title: "SDU Nest Box Project"
+title-block: false
 date-modified: last-modified
 execute:
   freeze: auto
@@ -178,7 +179,6 @@ if (has_api) {
 </style>
 
 <div class="hero">
-  <h1>SDU Nest Box Project</h1>
   <p>A long-term study of breeding birds in nest boxes on and around the University of Southern Denmark campus. The project tracks breeding timing, occupancy, eggs, chicks, and year-to-year ecological variation in a simple woodland box system.</p>
 </div>
 ```

@@ -70,6 +70,55 @@
     "text": "Collaboration\nI am open to collaborations with strong methodological or scientific complementarity, including visiting researcher arrangements, Horizon Europe consortium work, and co-supervision.\nLast updated: 8 March 2026."
   },
   {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Department of Biology, University of Southern Denmark\nSDU Climate Cluster\nSabbatical affiliation (2025-2026): University of Edinburgh"
+  },
+  {
+    "objectID": "contact.html#affiliation",
+    "href": "contact.html#affiliation",
+    "title": "Contact",
+    "section": "",
+    "text": "Department of Biology, University of Southern Denmark\nSDU Climate Cluster\nSabbatical affiliation (2025-2026): University of Edinburgh"
+  },
+  {
+    "objectID": "contact.html#contact-details",
+    "href": "contact.html#contact-details",
+    "title": "Contact",
+    "section": "Contact details",
+    "text": "Contact details\n\nEmail: jones@biology.sdu.dk"
+  },
+  {
+    "objectID": "contact.html#profiles-and-links",
+    "href": "contact.html#profiles-and-links",
+    "title": "Contact",
+    "section": "Profiles and links",
+    "text": "Profiles and links\n\nSDU profile\nGitHub\nGoogle Scholar\nORCID"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "My teaching is centred on quantitative ecology, demographic methods, and reproducible data analysis. I lead core and advanced courses at the University of Southern Denmark, and have developed open course books and interactive resources that are freely available to students and researchers."
+  },
+  {
+    "objectID": "teaching.html#current-and-recent-courses",
+    "href": "teaching.html#current-and-recent-courses",
+    "title": "Teaching",
+    "section": "Current and recent courses",
+    "text": "Current and recent courses\n\nPopulation Biology and Evolution (BB512) - compulsory second-year course\nData Handling, Visualisation and Statistics (BB852) - compulsory master’s course\nIntroduction to Biodemography - elective third-year course\nQuantitative Conservation Ecology - elective master’s course\n\nThe course books and interactive Shiny applications below are openly published and freely available."
+  },
+  {
+    "objectID": "teaching.html#course-resources",
+    "href": "teaching.html#course-resources",
+    "title": "Teaching",
+    "section": "Course resources",
+    "text": "Course resources\n\nPopulation Biology and Evolution book: BB512 Book\nData Handling, Visualisation and Statistics book: BB852 Book\nPopulation Biology and Evolution apps: BB512 Shiny suite\nData Handling, Visualisation and Statistics apps: BB852 Shiny suite"
+  },
+  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
@@ -140,53 +189,74 @@
     "text": "Publications\nSelected publications:\n\nJones et al. (2014). Diversity of ageing across the tree of life. Nature, 505, 169-173. DOI\nDemonstrated that ageing is not biologically inevitable, documenting strikingly diverse senescence trajectories, including negligible and negative ageing, across 46 species spanning the tree of life.\nColchero et al. (2016). The emergence of longevous populations. PNAS, 113, E7681-E7690. DOI\nPNAS Cozzarelli Prize 2016. Showed that the compression of mortality in human populations, the basis of modern longevity, has deep parallels in other long-lived species, linking human demography to broader evolutionary biology.\nSalguero-Gomez et al. (2016). COMADRE: a global database of animal demography. Journal of Animal Ecology, 85, 371-384. DOI\nBES Elton Prize 2016. Introduced the COMADRE database, now a foundational resource for comparative animal demography used by researchers worldwide.\nSalguero-Gomez et al. (2015). The COMPADRE Plant Matrix Database. Journal of Ecology, 103, 202-218. DOI\nEstablished COMPADRE as the primary open repository for plant demographic data, enabling a new era of cross-species comparative plant demography.\nSalguero-Gomez et al. (2016). Fast-slow continuum and reproductive strategies structure plant life-history variation worldwide. PNAS, 113, 230-235. DOI\nRevealed that plant life-history diversity is organised along two orthogonal axes, the fast-slow continuum and a reproductive strategy axis, providing a unifying framework for comparative plant demography.\nHealy et al. (2019). Animal life history is shaped by the pace of life and the distribution of age-specific mortality and reproduction. Nature Ecology & Evolution, 3, 1217-1224. DOI\nShowed that the pace-of-life framework alone is insufficient to explain life-history diversity, identifying age-specific mortality patterns as a key additional axis structuring animal life histories.\nStott et al. (2024). Life histories not just fast or slow. Trends in Ecology & Evolution, 39, 830-840. DOI\nA synthesis challenging the sufficiency of the fast-slow continuum and arguing for a more multidimensional understanding of life-history structure across taxa.\nJones et al. (2022). Rcompadre and Rage: two R packages to facilitate the use of the COMPADRE and COMADRE databases. Methods in Ecology & Evolution, 13, 770-781. DOI\nDescribed R infrastructure underpinning open demographic analysis, making COMPADRE and COMADRE accessible through reproducible, documented workflows.\nJones (2025). mpmsim: an R package for simulating matrix population models. Methods in Ecology & Evolution, 16, 904-911. DOI\nIntroduced a flexible simulation framework for matrix population models, supporting teaching, sensitivity analysis, and methods development in demographic research.\nJackson et al. (2022). Life-history predicts global population responses to the weather in terrestrial mammals. eLife, 11. DOI\nDemonstrated that life-history position on the fast-slow continuum predicts how strongly mammal populations respond to weather variation, linking evolutionary theory to applied conservation demography.\nGascoigne et al. (2023). A standard protocol to report discrete stage-structured demographic information. Methods in Ecology & Evolution, 14, 2065-2083. DOI\nEstablished community-wide reporting standards for demographic data, improving reproducibility and comparability across the demographic literature.\nPhillimore et al. (2010). Differences in spawning date between populations of common frog reveal local adaptation. PNAS, 107, 8292-8297. DOI\nProvided evidence of local adaptation in phenological timing, helping establish an empirical foundation for later work on phenology and environmental change.\n\nFor a full and up-to-date list, see Google Scholar."
   },
   {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
+    "objectID": "nest-box-project.html",
+    "href": "nest-box-project.html",
+    "title": "SDU Nest Box Project",
     "section": "",
-    "text": "My teaching is centred on quantitative ecology, demographic methods, and reproducible data analysis. I lead core and advanced courses at the University of Southern Denmark, and have developed open course books and interactive resources that are freely available to students and researchers."
+    "text": "A long-term study of breeding birds in nest boxes on and around the University of Southern Denmark campus. The project tracks breeding timing, occupancy, eggs, chicks, and year-to-year ecological variation in a simple woodland box system."
   },
   {
-    "objectID": "teaching.html#current-and-recent-courses",
-    "href": "teaching.html#current-and-recent-courses",
-    "title": "Teaching",
-    "section": "Current and recent courses",
-    "text": "Current and recent courses\n\nPopulation Biology and Evolution (BB512) - compulsory second-year course\nData Handling, Visualisation and Statistics (BB852) - compulsory master’s course\nIntroduction to Biodemography - elective third-year course\nQuantitative Conservation Ecology - elective master’s course\n\nThe course books and interactive Shiny applications below are openly published and freely available."
+    "objectID": "nest-box-project.html#at-a-glance",
+    "href": "nest-box-project.html#at-a-glance",
+    "title": "SDU Nest Box Project",
+    "section": "At a glance",
+    "text": "At a glance\n\n&lt;div class=\"stat-card\"&gt;&lt;div class=\"stat-label\"&gt;Years monitored&lt;/div&gt;&lt;div class=\"stat-value\"&gt;12&lt;/div&gt;&lt;/div&gt;\n&lt;div class=\"stat-card\"&gt;&lt;div class=\"stat-label\"&gt;Nest visits&lt;/div&gt;&lt;div class=\"stat-value\"&gt;19,487&lt;/div&gt;&lt;/div&gt;\n&lt;div class=\"stat-card\"&gt;&lt;div class=\"stat-label\"&gt;Box IDs&lt;/div&gt;&lt;div class=\"stat-value\"&gt;200&lt;/div&gt;&lt;/div&gt;\n&lt;div class=\"stat-card\"&gt;&lt;div class=\"stat-label\"&gt;Occupied nest-years&lt;/div&gt;&lt;div class=\"stat-value\"&gt;807&lt;/div&gt;&lt;/div&gt;\n&lt;div class=\"stat-card\"&gt;&lt;div class=\"stat-label\"&gt;Median clutch size&lt;/div&gt;&lt;div class=\"stat-value\"&gt;9&lt;/div&gt;&lt;/div&gt;"
   },
   {
-    "objectID": "teaching.html#course-resources",
-    "href": "teaching.html#course-resources",
-    "title": "Teaching",
-    "section": "Course resources",
-    "text": "Course resources\n\nPopulation Biology and Evolution book: BB512 Book\nData Handling, Visualisation and Statistics book: BB852 Book\nPopulation Biology and Evolution apps: BB512 Shiny suite\nData Handling, Visualisation and Statistics apps: BB852 Shiny suite"
+    "objectID": "nest-box-project.html#about-the-project",
+    "href": "nest-box-project.html#about-the-project",
+    "title": "SDU Nest Box Project",
+    "section": "About the project",
+    "text": "About the project\nThe SDU Nest Box Project is built around a straightforward idea: by following the same nest boxes through spring and early summer, year after year, it becomes possible to see how breeding birds respond to changing seasonal conditions. The project records when birds begin building nests, when eggs appear, when chicks hatch, and how breeding progresses across the season.\nBecause the same box system is monitored repeatedly, the project provides a consistent long-term view of breeding phenology and nest-box use. It is useful both as a research platform and as a field-based teaching project involving students and volunteers."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Department of Biology, University of Southern Denmark\nSDU Climate Cluster\nSabbatical affiliation (2025-2026): University of Edinburgh"
+    "objectID": "nest-box-project.html#study-area",
+    "href": "nest-box-project.html#study-area",
+    "title": "SDU Nest Box Project",
+    "section": "Study area",
+    "text": "Study area\nThe study takes place in mixed woodland around the University of Southern Denmark campus in Odense. The nest boxes are spread across a compact and accessible landscape, which makes the site well suited to regular monitoring and repeated seasonal comparisons."
   },
   {
-    "objectID": "contact.html#affiliation",
-    "href": "contact.html#affiliation",
-    "title": "Contact",
-    "section": "",
-    "text": "Department of Biology, University of Southern Denmark\nSDU Climate Cluster\nSabbatical affiliation (2025-2026): University of Edinburgh"
+    "objectID": "nest-box-project.html#what-we-record",
+    "href": "nest-box-project.html#what-we-record",
+    "title": "SDU Nest Box Project",
+    "section": "What we record",
+    "text": "What we record\nDuring nest checks, the project records a simple set of field observations that are biologically informative and easy to compare across years:\n\nwhether a box is empty or in use\nnest-building stage\neggs and chicks\nspecies where known\ntiming of breeding events\nbroad breeding outcomes\n\nTogether, these observations make it possible to describe both the progress of a single breeding season and broader long-term trends."
   },
   {
-    "objectID": "contact.html#contact-details",
-    "href": "contact.html#contact-details",
-    "title": "Contact",
-    "section": "Contact details",
-    "text": "Contact details\n\nEmail: jones@biology.sdu.dk"
+    "objectID": "nest-box-project.html#current-season-snapshot",
+    "href": "nest-box-project.html#current-season-snapshot",
+    "title": "SDU Nest Box Project",
+    "section": "Current season snapshot",
+    "text": "Current season snapshot\n\n\n\n\n\n\nThe latest current-season data are for 2026, updated to 2026-03-26. So far there have been 36 recorded checks across 36 boxes, with 0 boxes containing eggs and 0 containing chicks."
   },
   {
-    "objectID": "contact.html#profiles-and-links",
-    "href": "contact.html#profiles-and-links",
-    "title": "Contact",
-    "section": "Profiles and links",
-    "text": "Profiles and links\n\nSDU profile\nGitHub\nGoogle Scholar\nORCID"
+    "objectID": "nest-box-project.html#long-term-results",
+    "href": "nest-box-project.html#long-term-results",
+    "title": "SDU Nest Box Project",
+    "section": "Long-term results",
+    "text": "Long-term results\n\nOccupancy by year\n\n\n\n\n\n\n\n\n\n\n\nTiming of first eggs\n\n\n\n\n\n\n\n\n\n\n\nSpecies using the boxes"
+  },
+  {
+    "objectID": "nest-box-project.html#why-it-matters",
+    "href": "nest-box-project.html#why-it-matters",
+    "title": "SDU Nest Box Project",
+    "section": "Why it matters",
+    "text": "Why it matters\nLong-term monitoring makes it possible to see that breeding timing and occupancy vary substantially between years. Those differences help show how local bird populations respond to changing spring conditions, habitat, and weather. Because the same nest-box system is monitored repeatedly, the project provides a rare combination of continuity, simplicity, and ecological value.\nThe project also matters as a teaching and engagement platform. It gives students field experience, supports practical training in ecology, and creates a structured way for volunteers to contribute to biodiversity monitoring."
+  },
+  {
+    "objectID": "nest-box-project.html#people-and-participation",
+    "href": "nest-box-project.html#people-and-participation",
+    "title": "SDU Nest Box Project",
+    "section": "People and participation",
+    "text": "People and participation\nThis project has involved many students and volunteers over the years. If you are interested in contributing — whether as a student, researcher, or volunteer — please get in touch via the Contact page."
+  },
+  {
+    "objectID": "nest-box-project.html#animal-welfare-and-ethics",
+    "href": "nest-box-project.html#animal-welfare-and-ethics",
+    "title": "SDU Nest Box Project",
+    "section": "Animal welfare and ethics",
+    "text": "Animal welfare and ethics\nNest-box monitoring is carried out with care to minimise disturbance. Any ringing activities are conducted under the relevant permits and in accordance with Danish animal welfare legislation."
   },
   {
     "objectID": "index.html",
