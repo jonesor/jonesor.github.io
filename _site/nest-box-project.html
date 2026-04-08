@@ -206,6 +206,24 @@ ul.task-list li input[type="checkbox"] {
   gap: 18px;
   margin: 16px 0 28px 0;
 }
+.nest-map-frame {
+  margin: 14px 0 10px 0;
+  border: 1px solid var(--border-soft, #dbe2ea);
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(31, 42, 34, 0.06);
+}
+.nest-map-frame iframe {
+  width: 100%;
+  height: 420px;
+  border: 0;
+  display: block;
+}
+.nest-map-note {
+  color: #5a5a5a;
+  font-size: 0.95rem;
+  margin-top: 0.5rem;
+}
 .nest-photo-placeholder {
   min-height: 260px;
   border: 1px dashed #9aaec1;
@@ -284,6 +302,17 @@ Day 109
 <h2 class="anchored" data-anchor-id="about-the-project">About the project</h2>
 <p>The project follows nest boxes through spring and early summer to record when birds begin breeding, how many nests are occupied, when eggs appear, when chicks hatch, and how breeding progresses across the season. Because the same box system has been monitored across many years, the project provides a compact but informative long-term record of breeding ecology in a local woodland landscape.</p>
 <p>This work matters for both research and teaching. It supports field-based training for students, provides a platform for final-year and undergraduate research projects, and creates a long-term dataset that can be used to ask ecological questions about variation in breeding timing and reproductive performance.</p>
+</section>
+<section id="study-area-map" class="level2">
+<h2 class="anchored" data-anchor-id="study-area-map">Study area map</h2>
+<p>The project is based around the woodland and green areas on and around the SDU campus in Odense. The map below shows the broader study area rather than precise nest-box locations.</p>
+<div class="nest-map-frame">
+  <iframe title="Map of the SDU Odense study area" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=10.409%2C55.360%2C10.439%2C55.377&amp;layer=mapnik&amp;marker=55.3682%2C10.4240">
+  </iframe>
+</div>
+<p class="nest-map-note">
+  Approximate study area centred on SDU Odense. <a href="https://www.openstreetmap.org/?mlat=55.3682&amp;mlon=10.4240#map=15/55.3682/10.4240">Open larger map</a>.
+</p>
 </section>
 <section id="photos" class="level2">
 <h2 class="anchored" data-anchor-id="photos">Photos</h2>
