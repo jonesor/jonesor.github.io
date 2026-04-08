@@ -38,7 +38,4 @@ format:
     link-external-newwindow: true
     date-format: "D MMMM YYYY"
 
-execute:
-  freeze: auto
-
 lang: en-GB

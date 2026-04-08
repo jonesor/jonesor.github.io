@@ -2,7 +2,6 @@
 title: "SDU Nest Box Project"
 date-modified: last-modified
 execute:
-  freeze: auto
   echo: false
   warning: false
   message: false
