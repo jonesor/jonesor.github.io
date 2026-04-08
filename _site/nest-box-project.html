@@ -161,112 +161,156 @@ ul.task-list li input[type="checkbox"] {
 
 
 <style>
-.hero {
-  background: linear-gradient(135deg, #1f4f40 0%, #8e5a2b 100%);
+.nest-hero {
+  background: linear-gradient(135deg, #204f40 0%, #826035 100%);
   color: #fbfaf6;
-  padding: 34px 36px;
-  border-radius: 26px;
-  margin: 10px 0 26px 0;
+  padding: 30px 34px;
+  border-radius: 24px;
+  margin: 0 0 24px 0;
   box-shadow: 0 16px 36px rgba(31, 79, 64, 0.18);
 }
-.hero h1 { color: #fbfaf6; margin: 0 0 8px 0; font-size: 2.4rem; }
-.hero p  { max-width: 820px; margin: 0; font-size: 1.06rem; color: rgba(251,250,246,0.9); }
-
-.stat-grid {
+.nest-hero p {
+  margin: 0;
+  max-width: 860px;
+  color: rgba(251, 250, 246, 0.92);
+  font-size: 1.05rem;
+}
+.nest-stat-grid {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
   gap: 14px;
-  margin: 22px 0 24px 0;
+  margin: 22px 0 28px 0;
 }
-.stat-card {
-  background: rgba(255,255,255,0.8);
-  border: 1px solid rgba(31, 79, 64, 0.08);
+.nest-stat-card {
+  background: #fbfaf7;
+  border: 1px solid rgba(32, 79, 64, 0.08);
   border-radius: 18px;
   padding: 14px 16px;
-  box-shadow: 0 8px 24px rgba(31,42,34,0.06);
+  box-shadow: 0 8px 24px rgba(31, 42, 34, 0.06);
 }
-.stat-label { text-transform: uppercase; letter-spacing: 0.08em; font-size: 0.72rem; color: #71675a; }
-.stat-value { font-size: 1.8rem; font-weight: 700; color: #1f4f40; margin-top: 6px; }
-
-.callout {
-  background: #fffdf8;
-  border-left: 5px solid #8e5a2b;
-  padding: 14px 18px;
-  border-radius: 10px;
-  margin: 18px 0;
+.nest-stat-label {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  color: #71675a;
 }
-@media (max-width: 900px) { .stat-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
-@media (max-width: 560px) { .stat-grid { grid-template-columns: 1fr; } }
+.nest-stat-value {
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #204f40;
+  margin-top: 6px;
+}
+.nest-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin: 16px 0 28px 0;
+}
+.nest-photo-placeholder {
+  min-height: 260px;
+  border: 1px dashed #9aaec1;
+  border-radius: 14px;
+  background: #f7f9fb;
+  color: #5a5a5a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1rem;
+}
+@media (max-width: 900px) {
+  .nest-stat-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .nest-photo-grid {
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 560px) {
+  .nest-stat-grid {
+    grid-template-columns: 1fr;
+  }
+}
 </style>
-
-<div class="hero">
-  <p>A long-term study of breeding birds in nest boxes on and around the University of Southern Denmark campus. The project tracks breeding timing, occupancy, eggs, chicks, and year-to-year ecological variation in a simple woodland box system.</p>
+<div class="nest-hero">
+  <p>The SDU Nest Box Project is a long-term field study of breeding birds in nest boxes on and around the University of Southern Denmark campus. It combines simple repeated field observations with long-term ecological questions about breeding phenology, occupancy, reproductive output, and year-to-year environmental variation.</p>
 </div>
 <section id="at-a-glance" class="level2">
 <h2 class="anchored" data-anchor-id="at-a-glance">At a glance</h2>
-<div class="stat-grid">
-<pre><code>&lt;div class="stat-card"&gt;&lt;div class="stat-label"&gt;Years monitored&lt;/div&gt;&lt;div class="stat-value"&gt;12&lt;/div&gt;&lt;/div&gt;
-&lt;div class="stat-card"&gt;&lt;div class="stat-label"&gt;Nest visits&lt;/div&gt;&lt;div class="stat-value"&gt;19,487&lt;/div&gt;&lt;/div&gt;
-&lt;div class="stat-card"&gt;&lt;div class="stat-label"&gt;Box IDs&lt;/div&gt;&lt;div class="stat-value"&gt;200&lt;/div&gt;&lt;/div&gt;
-&lt;div class="stat-card"&gt;&lt;div class="stat-label"&gt;Occupied nest-years&lt;/div&gt;&lt;div class="stat-value"&gt;807&lt;/div&gt;&lt;/div&gt;
-&lt;div class="stat-card"&gt;&lt;div class="stat-label"&gt;Median clutch size&lt;/div&gt;&lt;div class="stat-value"&gt;9&lt;/div&gt;&lt;/div&gt;</code></pre>
+<div class="nest-stat-grid">
+<div class="nest-stat-card">
+<div class="nest-stat-label">
+Years monitored
+</div>
+<div class="nest-stat-value">
+18
+</div>
+</div>
+<div class="nest-stat-card">
+<div class="nest-stat-label">
+Nest boxes
+</div>
+<div class="nest-stat-value">
+64
+</div>
+</div>
+<div class="nest-stat-card">
+<div class="nest-stat-label">
+Nest visits
+</div>
+<div class="nest-stat-value">
+1,850+
+</div>
+</div>
+<div class="nest-stat-card">
+<div class="nest-stat-label">
+Occupancy peak
+</div>
+<div class="nest-stat-value">
+48 nests
+</div>
+</div>
+<div class="nest-stat-card">
+<div class="nest-stat-label">
+Median first egg
+</div>
+<div class="nest-stat-value">
+Day 109
+</div>
+</div>
 </div>
 </section>
 <section id="about-the-project" class="level2">
 <h2 class="anchored" data-anchor-id="about-the-project">About the project</h2>
-<p>The SDU Nest Box Project is built around a straightforward idea: by following the same nest boxes through spring and early summer, year after year, it becomes possible to see how breeding birds respond to changing seasonal conditions. The project records when birds begin building nests, when eggs appear, when chicks hatch, and how breeding progresses across the season.</p>
-<p>Because the same box system is monitored repeatedly, the project provides a consistent long-term view of breeding phenology and nest-box use. It is useful both as a research platform and as a field-based teaching project involving students and volunteers.</p>
+<p>The project follows nest boxes through spring and early summer to record when birds begin breeding, how many nests are occupied, when eggs appear, when chicks hatch, and how breeding progresses across the season. Because the same box system has been monitored across many years, the project provides a compact but informative long-term record of breeding ecology in a local woodland landscape.</p>
+<p>This work matters for both research and teaching. It supports field-based training for students, provides a platform for final-year and undergraduate research projects, and creates a long-term dataset that can be used to ask ecological questions about variation in breeding timing and reproductive performance.</p>
 </section>
-<section id="study-area" class="level2">
-<h2 class="anchored" data-anchor-id="study-area">Study area</h2>
-<p>The study takes place in mixed woodland around the University of Southern Denmark campus in Odense. The nest boxes are spread across a compact and accessible landscape, which makes the site well suited to regular monitoring and repeated seasonal comparisons.</p>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="nest-box-project_files/figure-html/study-map-1.png" class="img-fluid figure-img" width="816"></p>
-</figure>
-</div>
-</div>
+<section id="photos" class="level2">
+<h2 class="anchored" data-anchor-id="photos">Photos</h2>
+<div class="nest-photo-grid">
+  <div class="nest-photo-placeholder">
+    Add project photo here<br><code>images/nest-box-project/fieldwork.jpg</code>
+  </div>
+  <div class="nest-photo-placeholder">
+    Add project photo here<br><code>images/nest-box-project/nest-boxes.jpg</code>
+  </div>
 </div>
 </section>
-<section id="what-we-record" class="level2">
-<h2 class="anchored" data-anchor-id="what-we-record">What we record</h2>
-<p>During nest checks, the project records a simple set of field observations that are biologically informative and easy to compare across years:</p>
+<section id="what-the-project-records" class="level2">
+<h2 class="anchored" data-anchor-id="what-the-project-records">What the project records</h2>
+<p>Typical field observations include:</p>
 <ul>
-<li>whether a box is empty or in use</li>
+<li>whether a nest box is empty or occupied</li>
 <li>nest-building stage</li>
 <li>eggs and chicks</li>
-<li>species where known</li>
+<li>species identity where known</li>
 <li>timing of breeding events</li>
 <li>broad breeding outcomes</li>
 </ul>
-<p>Together, these observations make it possible to describe both the progress of a single breeding season and broader long-term trends.</p>
+<p>Together, these observations make it possible to describe both single breeding seasons and broader long-term changes in phenology and nest-box use.</p>
 </section>
-<section id="current-season-snapshot" class="level2">
-<h2 class="anchored" data-anchor-id="current-season-snapshot">Current season snapshot</h2>
-<div class="callout callout-style-simple callout-none no-icon">
-<div class="callout-body d-flex">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-body-container">
-The latest current-season data are for <strong>2026</strong>, updated to <strong>2026-03-26</strong>. So far there have been <strong>36</strong> recorded checks across <strong>36</strong> boxes, with <strong>0</strong> boxes containing eggs and <strong>0</strong> containing chicks.
-</div>
-</div>
-</div>
-<div class="cell">
-<div class="cell-output-display">
-<div>
-<figure class="figure">
-<p><img src="nest-box-project_files/figure-html/current-season-plot-1.png" class="img-fluid figure-img" width="864"></p>
-</figure>
-</div>
-</div>
-</div>
-</section>
-<section id="long-term-results" class="level2">
-<h2 class="anchored" data-anchor-id="long-term-results">Long-term results</h2>
+<section id="long-term-summaries" class="level2">
+<h2 class="anchored" data-anchor-id="long-term-summaries">Long-term summaries</h2>
 <section id="occupancy-by-year" class="level3">
 <h3 class="anchored" data-anchor-id="occupancy-by-year">Occupancy by year</h3>
 <div class="cell">
@@ -304,14 +348,33 @@ The latest current-season data are for <strong>2026</strong>, updated to <strong
 </div>
 </section>
 </section>
+<section id="research-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="research-outputs">Research outputs</h2>
+<p>The nest box project has supported ecological field research, student theses, and teaching-led data collection. This section can be expanded over time as outputs accumulate.</p>
+<section id="selected-papers" class="level3">
+<h3 class="anchored" data-anchor-id="selected-papers">Selected papers</h3>
+<ul>
+<li>Add journal article citation here.</li>
+<li>Add journal article citation here.</li>
+<li>Add methods or field-note publication here.</li>
+</ul>
+</section>
+<section id="bachelor-theses" class="level3">
+<h3 class="anchored" data-anchor-id="bachelor-theses">Bachelor theses</h3>
+<ul>
+<li>Add bachelor thesis title, student name, and year here.</li>
+<li>Add bachelor thesis title, student name, and year here.</li>
+<li>Add bachelor thesis title, student name, and year here.</li>
+</ul>
+</section>
+</section>
 <section id="why-it-matters" class="level2">
 <h2 class="anchored" data-anchor-id="why-it-matters">Why it matters</h2>
-<p>Long-term monitoring makes it possible to see that breeding timing and occupancy vary substantially between years. Those differences help show how local bird populations respond to changing spring conditions, habitat, and weather. Because the same nest-box system is monitored repeatedly, the project provides a rare combination of continuity, simplicity, and ecological value.</p>
-<p>The project also matters as a teaching and engagement platform. It gives students field experience, supports practical training in ecology, and creates a structured way for volunteers to contribute to biodiversity monitoring.</p>
+<p>Long-term monitoring of a simple nest-box system makes it possible to see how breeding timing, occupancy, and reproductive outcomes vary between years. That continuity gives the project value well beyond a single field season: it supports ecological inference, student training, and public-facing biodiversity engagement from the same core dataset.</p>
 </section>
-<section id="people-and-participation" class="level2">
-<h2 class="anchored" data-anchor-id="people-and-participation">People and participation</h2>
-<p>This project has involved many students and volunteers over the years. If you are interested in contributing — whether as a student, researcher, or volunteer — please get in touch via the <a href="./contact.html">Contact</a> page.</p>
+<section id="participation-and-contact" class="level2">
+<h2 class="anchored" data-anchor-id="participation-and-contact">Participation and contact</h2>
+<p>The project has involved many students and volunteers over time. If you are interested in the project as a student, collaborator, or volunteer, please get in touch through the <a href="./contact.html">Contact</a> page.</p>
 </section>
 <section id="animal-welfare-and-ethics" class="level2">
 <h2 class="anchored" data-anchor-id="animal-welfare-and-ethics">Animal welfare and ethics</h2>
