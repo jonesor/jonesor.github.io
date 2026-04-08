@@ -15,28 +15,29 @@ library(scales)
 library(tibble)
 
 # Standalone summary data for the public-facing site.
-# Replace these values with updated project summaries when needed.
+# These values are a static snapshot derived from the SDUBirdProject data.
+# Update them manually here when the public page needs refreshing.
 project_summary <- tibble(
-  metric = c("Years monitored", "Nest boxes", "Nest visits", "Occupancy peak", "Median first egg"),
-  value  = c("18", "64", "1,850+", "48 nests", "Day 109")
+  metric = c("Years monitored", "Box IDs recorded", "Nest visits", "Occupancy peak", "Median first egg"),
+  value  = c("12", "200", "19,487", "86 nests", "Day 112")
 )
 
 occupancy_by_year <- tibble(
-  year = 2008:2025,
-  occupied_nests = c(24, 29, 31, 28, 35, 33, 37, 34, 40, 38, 42, 39, 44, 41, 46, 43, 48, 45),
-  nests_with_chicks = c(18, 22, 24, 20, 27, 25, 28, 27, 31, 30, 34, 31, 35, 33, 37, 34, 39, 36)
+  year = c(2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025),
+  occupied_nests = c(71, 86, 76, 72, 65, 55, 72, 59, 69, 69, 61, 63),
+  nests_with_chicks = c(69, 83, 52, 53, 50, 51, 65, 37, 46, 60, 54, 51)
 )
 
 timing_by_year <- tibble(
-  year = 2008:2025,
-  median_first_egg_day = c(116, 114, 112, 115, 111, 110, 109, 108, 110, 107, 108, 106, 105, 107, 104, 103, 102, 104),
-  q25 = median_first_egg_day - 4,
-  q75 = median_first_egg_day + 4
+  year = c(2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025),
+  median_first_egg_day = c(122, 109, 113, 107, 113, 108, 110, 116, 112, 112, 111, 106),
+  q25 = c(119, 102, 108, 104, 111, 101, 107, 113, 110, 109.5, 108, 103),
+  q75 = c(126, 112, 120, 114, 118, 112.5, 114, 118, 116.5, 115, 118.25, 109)
 )
 
 species_summary <- tibble(
-  species = c("Great Tit", "Blue Tit", "Nuthatch", "Marsh Tit", "Wren", "Other"),
-  nest_years = c(286, 214, 39, 17, 11, 8)
+  species = c("Great Tit", "Blue Tit", "Marsh Tit", "Nuthatch", "Other"),
+  nest_years = c(528, 203, 12, 10, 1)
 )
 ```
 

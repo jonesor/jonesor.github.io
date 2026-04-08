@@ -200,7 +200,7 @@
     "href": "nest-box-project.html#at-a-glance",
     "title": "SDU Nest Box Project",
     "section": "At a glance",
-    "text": "At a glance\n\n\n\nYears monitored\n\n\n18\n\n\n\n\nNest boxes\n\n\n64\n\n\n\n\nNest visits\n\n\n1,850+\n\n\n\n\nOccupancy peak\n\n\n48 nests\n\n\n\n\nMedian first egg\n\n\nDay 109"
+    "text": "At a glance\n\n\n\nYears monitored\n\n\n12\n\n\n\n\nBox IDs recorded\n\n\n200\n\n\n\n\nNest visits\n\n\n19,487\n\n\n\n\nOccupancy peak\n\n\n86 nests\n\n\n\n\nMedian first egg\n\n\nDay 112"
   },
   {
     "objectID": "nest-box-project.html#about-the-project",
@@ -210,88 +210,11 @@
     "text": "About the project\nThe project follows nest boxes through spring and early summer to record when birds begin breeding, how many nests are occupied, when eggs appear, when chicks hatch, and how breeding progresses across the season. Because the same box system has been monitored across many years, the project provides a compact but informative long-term record of breeding ecology in a local woodland landscape.\nThis work matters for both research and teaching. It supports field-based training for students, provides a platform for final-year and undergraduate research projects, and creates a long-term dataset that can be used to ask ecological questions about variation in breeding timing and reproductive performance."
   },
   {
-    "objectID": "nest-box-project.html#study-area",
-    "href": "nest-box-project.html#study-area",
+    "objectID": "nest-box-project.html#study-area-map",
+    "href": "nest-box-project.html#study-area-map",
     "title": "SDU Nest Box Project",
-    "section": "Study area",
-    "text": "Study area\nThe study takes place in mixed woodland around the University of Southern Denmark campus in Odense. The nest boxes are spread across a compact and accessible landscape, which makes the site well suited to regular monitoring and repeated seasonal comparisons."
-  },
-  {
-    "objectID": "nest-box-project.html#what-we-record",
-    "href": "nest-box-project.html#what-we-record",
-    "title": "SDU Nest Box Project",
-    "section": "What we record",
-    "text": "What we record\nDuring nest checks, the project records a simple set of field observations that are biologically informative and easy to compare across years:\n\nwhether a box is empty or in use\nnest-building stage\neggs and chicks\nspecies where known\ntiming of breeding events\nbroad breeding outcomes\n\nTogether, these observations make it possible to describe both the progress of a single breeding season and broader long-term trends."
-  },
-  {
-    "objectID": "nest-box-project.html#current-season-snapshot",
-    "href": "nest-box-project.html#current-season-snapshot",
-    "title": "SDU Nest Box Project",
-    "section": "Current season snapshot",
-    "text": "Current season snapshot\n\n\n\n\n\n\nThe latest current-season data are for 2026, updated to 2026-03-26. So far there have been 36 recorded checks across 36 boxes, with 0 boxes containing eggs and 0 containing chicks."
-  },
-  {
-    "objectID": "nest-box-project.html#long-term-results",
-    "href": "nest-box-project.html#long-term-results",
-    "title": "SDU Nest Box Project",
-    "section": "Long-term results",
-    "text": "Long-term results\n\nOccupancy by year\n\n\n\n\n\n\n\n\n\n\n\nTiming of first eggs\n\n\n\n\n\n\n\n\n\n\n\nSpecies using the boxes"
-  },
-  {
-    "objectID": "nest-box-project.html#why-it-matters",
-    "href": "nest-box-project.html#why-it-matters",
-    "title": "SDU Nest Box Project",
-    "section": "Why it matters",
-    "text": "Why it matters\nLong-term monitoring of a simple nest-box system makes it possible to see how breeding timing, occupancy, and reproductive outcomes vary between years. That continuity gives the project value well beyond a single field season: it supports ecological inference, student training, and public-facing biodiversity engagement from the same core dataset."
-  },
-  {
-    "objectID": "nest-box-project.html#people-and-participation",
-    "href": "nest-box-project.html#people-and-participation",
-    "title": "SDU Nest Box Project",
-    "section": "People and participation",
-    "text": "People and participation\nThis project has involved many students and volunteers over the years. If you are interested in contributing — whether as a student, researcher, or volunteer — please get in touch via the Contact page."
-  },
-  {
-    "objectID": "nest-box-project.html#animal-welfare-and-ethics",
-    "href": "nest-box-project.html#animal-welfare-and-ethics",
-    "title": "SDU Nest Box Project",
-    "section": "Animal welfare and ethics",
-    "text": "Animal welfare and ethics\nNest-box monitoring is carried out with care to minimise disturbance. Any ringing activities are conducted under the relevant permits and in accordance with Danish animal welfare legislation."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Associate Professor, Department of Biology, University of Southern Denmark\nAffiliated researcher, SDU Climate Cluster\nCurrently on sabbatical at the University of Edinburgh (2025-2026)\n🏆 BES Elton Prize 2016 · 🏆 PNAS Cozzarelli Prize 2016\n\n\nI am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases — open-data resources underpinning comparative demography worldwide. I serve on the governing board of the Nordic Society Oikos (NSO), the Scientific Committee of the Danish Ornithological Society (DOF), and as Associate Editor at Ecology and Evolution.\nI lead a research group working on demography, life-history evolution, and phenology, and have supervised five postdocs/fellows, four PhD students, and more than thirty MSc graduates.\n\n\n\nGoogle Scholar\nORCID\nGitHub\nSDU profile\n\n\n\n\nCurrent work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets.\n\n\n\nI maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See Data & Tools for an overview.\n\n\n\nI welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance.\n\n\n\n\n\n\nOwen R. Jones"
-  },
-  {
-    "objectID": "index.html#links",
-    "href": "index.html#links",
-    "title": "Home",
-    "section": "",
-    "text": "Google Scholar\nORCID\nGitHub\nSDU profile"
-  },
-  {
-    "objectID": "index.html#current-interests",
-    "href": "index.html#current-interests",
-    "title": "Home",
-    "section": "",
-    "text": "Current work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets."
-  },
-  {
-    "objectID": "index.html#open-science-data-and-software",
-    "href": "index.html#open-science-data-and-software",
-    "title": "Home",
-    "section": "",
-    "text": "I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See Data & Tools for an overview."
-  },
-  {
-    "objectID": "index.html#for-students-and-collaborators",
-    "href": "index.html#for-students-and-collaborators",
-    "title": "Home",
-    "section": "",
-    "text": "I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance."
+    "section": "Study area map",
+    "text": "Study area map\nThe project is based around the woodland and green areas on and around the SDU campus in Odense. The map below shows the broader study area rather than precise nest-box locations.\n\n  \n  \n\n\n  Approximate study area centred on SDU Odense. Open larger map."
   },
   {
     "objectID": "nest-box-project.html#photos",
@@ -322,6 +245,13 @@
     "text": "Research outputs\nThe nest box project has supported ecological field research, student-led projects, and teaching-led data collection. This section can be expanded over time as outputs accumulate.\n\nSelected papers\n\nCorregidor-Castro, A. and Jones, O. R. (2021). The effect of nest temperature on growth and survival in juvenile Great Tits Parus major. Ecology and Evolution, 11, 7346-7353. DOI\nExperimental warming of nests showed that relatively small temperature increases can reduce nestling size and mass, linking early developmental conditions to later performance under climate change.\nAdd journal article citation here.\nAdd methods or field-note publication here.\n\n\n\nStudent project areas\nStudent research linked to the project has included work on:\n\nphenology of breeding\noccupancy and nest preferences\nforaging behaviour\ncognition"
   },
   {
+    "objectID": "nest-box-project.html#why-it-matters",
+    "href": "nest-box-project.html#why-it-matters",
+    "title": "SDU Nest Box Project",
+    "section": "Why it matters",
+    "text": "Why it matters\nLong-term monitoring of a simple nest-box system makes it possible to see how breeding timing, occupancy, and reproductive outcomes vary between years. That continuity gives the project value well beyond a single field season: it supports ecological inference, student training, and public-facing biodiversity engagement from the same core dataset."
+  },
+  {
     "objectID": "nest-box-project.html#participation-and-contact",
     "href": "nest-box-project.html#participation-and-contact",
     "title": "SDU Nest Box Project",
@@ -329,10 +259,52 @@
     "text": "Participation and contact\nThe project has involved many students and volunteers over time. If you are interested in the project as a student, collaborator, or volunteer, please get in touch through the Contact page."
   },
   {
-    "objectID": "nest-box-project.html#study-area-map",
-    "href": "nest-box-project.html#study-area-map",
+    "objectID": "nest-box-project.html#animal-welfare-and-ethics",
+    "href": "nest-box-project.html#animal-welfare-and-ethics",
     "title": "SDU Nest Box Project",
-    "section": "Study area map",
-    "text": "Study area map\nThe project is based around the woodland and green areas on and around the SDU campus in Odense. The map below shows the broader study area rather than precise nest-box locations.\n\n  \n  \n\n\n  Approximate study area centred on SDU Odense. Open larger map."
+    "section": "Animal welfare and ethics",
+    "text": "Animal welfare and ethics\nNest-box monitoring is carried out with care to minimise disturbance. Any ringing activities are conducted under the relevant permits and in accordance with Danish animal welfare legislation."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Associate Professor, Department of Biology, University of Southern Denmark\nAffiliated researcher, SDU Climate Cluster\nCurrently on sabbatical at the University of Edinburgh (2025-2026)\n🏆 BES Elton Prize 2016 · 🏆 PNAS Cozzarelli Prize 2016\n\n\nI am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases — open-data resources underpinning comparative demography worldwide. I serve on the governing board of the Nordic Society Oikos (NSO), the Scientific Committee of the Danish Ornithological Society (DOF), and as Associate Editor at Ecology and Evolution.\nI lead a research group working on demography, life-history evolution, and phenology, and have supervised five postdocs/fellows, four PhD students, and more than thirty MSc graduates.\n\n\n\nGoogle Scholar\nORCID\nGitHub\nSDU profile\n\n\n\n\nCurrent work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets.\n\n\n\nI maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See Data & Tools for an overview.\n\n\n\nI welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance.\n\n\n\nI run a long-term nest box monitoring project tracking breeding birds in woodland habitats. See the Nest Box Project for details.\n\n\n\n\n\n\nOwen R. Jones"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Home",
+    "section": "",
+    "text": "Google Scholar\nORCID\nGitHub\nSDU profile"
+  },
+  {
+    "objectID": "index.html#current-interests",
+    "href": "index.html#current-interests",
+    "title": "Home",
+    "section": "",
+    "text": "Current work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets."
+  },
+  {
+    "objectID": "index.html#open-science-data-and-software",
+    "href": "index.html#open-science-data-and-software",
+    "title": "Home",
+    "section": "",
+    "text": "I maintain and contribute to open tools and workflows for demographic analysis, including R-based resources and reproducible research practices. I co-lead the COMPADRE and COMADRE databases, which are widely used by researchers globally. See Data & Tools for an overview."
+  },
+  {
+    "objectID": "index.html#for-students-and-collaborators",
+    "href": "index.html#for-students-and-collaborators",
+    "title": "Home",
+    "section": "",
+    "text": "I welcome focused enquiries from prospective students and collaborators with shared interests in demography, population ecology, and quantitative methods. See Students & Collaboration for guidance."
+  },
+  {
+    "objectID": "index.html#nest-box-project",
+    "href": "index.html#nest-box-project",
+    "title": "Home",
+    "section": "",
+    "text": "I run a long-term nest box monitoring project tracking breeding birds in woodland habitats. See the Nest Box Project for details."
   }
 ]

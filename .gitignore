@@ -1,5 +1,7 @@
 # Quarto render cache and local build outputs
 .quarto/
+_site/
+_freeze/
 *_cache/
 
 # RStudio project/user files
