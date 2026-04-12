@@ -23,8 +23,10 @@ project_summary <- tibble(
 
 occupancy_by_year <- tibble(
   year = c(2013, 2014, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025),
-  occupied_nests = c(71, 86, 76, 72, 65, 55, 72, 59, 69, 69, 61, 63),
-  nests_with_chicks = c(69, 83, 52, 53, 50, 51, 65, 37, 46, 60, 54, 51)
+  occupied_nests = c(71, 86, 76, 72, 65, 55, 72, 59, 69, 69, 61, 63)
+) |>
+  mutate(
+    occupancy_rate = occupied_nests / 100
 )
 
 timing_by_year <- tibble(
@@ -224,16 +226,15 @@ Together, these observations make it possible to describe both single breeding s
 ```{r occupancy-plot}
 #| fig-width: 8.5
 #| fig-height: 4.8
-ggplot(occupancy_by_year, aes(x = year)) +
-  geom_col(aes(y = occupied_nests), fill = "#8d5a2b", width = 0.7) +
-  geom_line(aes(y = nests_with_chicks), colour = "#2f6b4f", linewidth = 1.1) +
-  geom_point(aes(y = nests_with_chicks), colour = "#2f6b4f", size = 2) +
-  scale_y_continuous(labels = comma) +
+ggplot(occupancy_by_year, aes(x = year, y = occupancy_rate)) +
+  geom_line(colour = "#2f6b4f", linewidth = 1.2) +
+  geom_point(colour = "#2f6b4f", size = 2.4) +
+  scale_y_continuous(labels = percent_format(accuracy = 1), limits = c(0, 1)) +
   labs(
-    title = "Occupied nests by year",
-    subtitle = "Bars show occupied nest-years; the line shows nest-years with chicks",
+    title = "Occupancy rate by year",
+    subtitle = "Share of nest boxes with eggs or chicks recorded in each year",
     x = NULL,
-    y = "Nest-years"
+    y = "Occupancy rate"
   ) +
   theme_minimal(base_size = 13)
 ```
