@@ -7,13 +7,13 @@ date-modified: last-modified
 
 Associate Professor, Department of Biology, University of Southern Denmark  
 Affiliated researcher, SDU Climate Cluster  
-Currently on sabbatical at the University of Edinburgh (2025-2026)
+Recently completed a sabbatical at the University of Edinburgh (2025-2026)
 
 🏆 BES Elton Prize 2016 · 🏆 PNAS Cozzarelli Prize 2016
 
 ::: {.columns}
 ::: {.column width="68%"}
-I am an Associate Professor at the University of Southern Denmark, currently on sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases — open-data resources underpinning comparative demography worldwide. I serve on the governing board of the [Nordic Society Oikos (NSO)](https://www.nordicsocietyoikos.org/), the Scientific Committee of the [Danish Ornithological Society (DOF)](https://www.dof.dk/), and as Associate Editor at [*Ecology and Evolution*](https://onlinelibrary.wiley.com/journal/20457758).
+I am an Associate Professor at the University of Southern Denmark, having recently completed a sabbatical at the University of Edinburgh. My research focuses on the diversity of life histories, demographic processes, and phenological patterns across the tree of life, addressing why some species live long lives while others have short ones, and how organisms time life-cycle events in response to environmental change. Demography lies at the core of this work, from single-population analyses (including Bayesian Survival Trajectory Analysis) to macrodemographic comparisons across populations and species. I co-lead the COMPADRE and COMADRE matrix population databases — open-data resources underpinning comparative demography worldwide. I serve on the governing board of the [Nordic Society Oikos (NSO)](https://www.nordicsocietyoikos.org/), the Scientific Committee of the [Danish Ornithological Society (DOF)](https://www.dof.dk/), and as Associate Editor at [*Ecology and Evolution*](https://onlinelibrary.wiley.com/journal/20457758).
 
 I lead a research group working on demography, life-history evolution, and phenology, and have supervised five postdocs/fellows, four PhD students, and more than thirty MSc graduates.
 
@@ -24,9 +24,16 @@ I lead a research group working on demography, life-history evolution, and pheno
 - [GitHub](https://github.com/jonesor)
 - [SDU profile](https://portal.findresearcher.sdu.dk/en/persons/owen-r-jones/)
 
+## Recent updates
+
+- **May 2026** — *Social Organisation Predicts Lifespan in Mammals* published in *Ecology and Evolution*.
+- **May 2026** — European mistletoe demographic strategy paper published in *Journal of Ecology*.
+- **March 2026** — Funen Cat Project dataset published in *F1000Research*.
+- **January 2026** — *Ecological Perspectives on Aging* published in *Aging Cell*.
+
 ## Current interests
 
-Current work focuses on two funded programmes: a DFF-supported study of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project quantifying global phenological shifts from large open datasets.
+Current work focuses on individual variation in woodland phenology under climate change, supported by the Danish Independent Research Fund, alongside collaborative projects on ageing, social organisation, comparative demography, and phenological responses to environmental change. I recently completed a Novo Nordisk Foundation sabbatical project using large open datasets to quantify global phenological shifts.
 
 ## Open science, data, and software
 

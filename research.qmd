@@ -15,7 +15,7 @@ I work on comparative questions about senescence and longevity: why ageing traje
 
 ## Phenology and climate change
 
-A substantial strand of my research examines the timing of life-cycle events, reproduction, migration, flowering, and emergence, and how phenological responses to environmental change affect population dynamics and species interactions. This work spans plants and animals, combines long-term observational datasets with large open resources, and addresses both the proximate drivers of phenological timing and its downstream demographic consequences. Current funded work (DFF; Novo Nordisk Foundation) focuses on individual variation in woodland phenology and global patterns of phenological shift under climate change.
+A substantial strand of my research examines the timing of life-cycle events, reproduction, migration, flowering, and emergence, and how phenological responses to environmental change affect population dynamics and species interactions. This work spans plants and animals, combines long-term observational datasets with large open resources, and addresses both the proximate drivers of phenological timing and its downstream demographic consequences. Current DFF-funded work focuses on individual variation in woodland phenology under climate change, building on a recently completed Novo Nordisk Foundation project on global patterns of phenological shift.
 
 ## Open data infrastructure
 
@@ -27,12 +27,12 @@ I contribute to the development and dissemination of methods for demographic and
 
 ## Current project areas
 
-Current funded projects include a DFF-supported study of drivers of individual variation in woodland phenology under climate change, and a Novo Nordisk Foundation sabbatical project using large open datasets to quantify global phenological shifts. Ongoing collaborative work addresses the diversity of ageing across taxa, links between social organisation and lifespan in mammals, and continued development of the COMPADRE and COMADRE databases.
+Current funded work includes a DFF-supported study of drivers of individual variation in woodland phenology under climate change, building on a recently completed Novo Nordisk Foundation sabbatical project that used large open datasets to quantify global phenological shifts. Ongoing collaborative work addresses the diversity of ageing across taxa, links between social organisation and lifespan in mammals, and continued development of the COMPADRE and COMADRE databases.
 
 ## Research funding
 
 - Danish Independent Research Fund (DFF): individual variation in woodland phenology under climate change (active)
-- Novo Nordisk Foundation: sabbatical project on global phenological shifts from large open datasets (active)
+- Novo Nordisk Foundation: sabbatical project on global phenological shifts from large open datasets (recently completed, 2025-2026)
 
 ## Prizes and recognition
 
@@ -45,6 +45,14 @@ Current funded projects include a DFF-supported study of drivers of individual v
 
 Selected publications:
 
+- Jones et al. (2026). Social organisation predicts lifespan in mammals. *Ecology and Evolution*, 16, e73587. [DOI](https://doi.org/10.1002/ece3.73587)  
+  Analysed maximum lifespan, body mass, and social organisation across 1436 mammal species, showing that group-living and pair-living species live longer than solitary species after accounting for body mass and phylogeny.
+- Spacey et al. (2026). European mistletoe shares a similar demographic strategy with non-parasitic plants. *Journal of Ecology*. [DOI](https://doi.org/10.1111/1365-2745.70339)  
+  Found that European mistletoe (*Viscum album*) does not occupy a distinct demographic strategy from non-parasitic plants when quantified through time-based life-history traits, informing how parasitism shapes plant population dynamics.
+- Maklakov et al. (2026). Ecological perspectives on aging. *Aging Cell*, 25, e70308. [DOI](https://doi.org/10.1111/acel.70308)  
+  A perspective arguing for integrating ecological context into ageing research, extending understanding of ageing trajectories from controlled laboratory settings to natural populations.
+- Jones (2026). Cross-species mortality and fertility patterns. In *Reference Module in Life Sciences*, Elsevier. [DOI](https://doi.org/10.1016/B978-0-443-15750-9.00036-7)  
+  A synthesis of how mortality and fertility schedules vary across the tree of life and what cross-species comparison reveals about the evolution of ageing and life histories.
 - Jones et al. (2014). Diversity of ageing across the tree of life. *Nature*, 505, 169-173. [DOI](https://doi.org/10.1038/nature12789)  
   Demonstrated that ageing is not biologically inevitable, documenting strikingly diverse senescence trajectories, including negligible and negative ageing, across 46 species spanning the tree of life.
 - Colchero et al. (2016). The emergence of longevous populations. *PNAS*, 113, E7681-E7690. [DOI](https://doi.org/10.1073/pnas.1612191113)  
