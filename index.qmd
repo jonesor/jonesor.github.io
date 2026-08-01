@@ -7,9 +7,10 @@ date-modified: last-modified
 
 Associate Professor, Department of Biology, University of Southern Denmark  
 Affiliated researcher, SDU Climate Cluster  
-Recently completed a sabbatical at the University of Edinburgh (2025-2026)
+Recently completed a sabbatical at the University of Edinburgh (2025-2026)  
+Fellow of the British Ecological Society
 
-🏆 BES Elton Prize 2016 · 🏆 PNAS Cozzarelli Prize 2016
+Fellow of the British Ecological Society, 2026 · 🏆 BES Elton Prize, 2016 · 🏆 PNAS Cozzarelli Prize, 2016
 
 ::: {.columns}
 ::: {.column width="68%"}
@@ -26,6 +27,7 @@ I lead a research group working on demography, life-history evolution, and pheno
 
 ## Recent updates
 
+- **July 2026** — Named a Fellow of the British Ecological Society (FBES).
 - **May 2026** — *Social Organisation Predicts Lifespan in Mammals* published in *Ecology and Evolution*.
 - **May 2026** — European mistletoe demographic strategy paper published in *Journal of Ecology*.
 - **March 2026** — Funen Cat Project dataset published in *F1000Research*.
