@@ -46,8 +46,8 @@ Current funded work includes a DFF-supported study of drivers of individual vari
 
 Selected publications:
 
-- Jones et al. (2026). Eukaryote life histories. *Annual Review of Ecology, Evolution, and Systematics*, 57. [DOI](https://doi.org/10.1146/annurev-ecolsys-102723-045921)  
-  A synthesis of life-history variation across eukaryotes.
+- Jones et al. (2026). Eukaryote life histories. *Annual Review of Ecology, Evolution, and Systematics*, 57, 459-482. [DOI](https://doi.org/10.1146/annurev-ecolsys-102723-045921)  
+  Reviews how unavoidable trade-offs in allocating limited energy and time to survival, growth, and reproduction have produced diverse life-history strategies across eukaryotes, tracing the development of life history theory and bringing together micro- and macroevolutionary perspectives.
 - Jones et al. (2026). Social organisation predicts lifespan in mammals. *Ecology and Evolution*, 16, e73587. [DOI](https://doi.org/10.1002/ece3.73587)  
   Analysed maximum lifespan, body mass, and social organisation across 1436 mammal species, showing that group-living and pair-living species live longer than solitary species after accounting for body mass and phylogeny.
 - Spacey et al. (2026). European mistletoe shares a similar demographic strategy with non-parasitic plants. *Journal of Ecology*. [DOI](https://doi.org/10.1111/1365-2745.70339)  
