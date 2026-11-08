@@ -27,7 +27,7 @@ PopBio works on demography, life-history evolution, and phenology. I have superv
 ## Recent updates
 
 - **November 2026**: Jamie Weir and Pedro Santibañez join PopBio as Gaia MSCA Postdoctoral Fellows.
-- **September 2026**: *Eukaryote Life Histories* published in *Annual Review of Ecology, Evolution, and Systematics*.
+- **September 2026**: [*Eukaryote Life Histories*](https://doi.org/10.1146/annurev-ecolsys-102723-045921) published open access in *Annual Review of Ecology, Evolution, and Systematics*.
 - **September 2026**: Hosted the joint Nordic Society Oikos / GfÖ conference (OIKOS26) in Odense, with around 1,000 attendees.
 - **July 2026**: Named a Fellow of the British Ecological Society (FBES).
 - **May 2026**: *Social Organisation Predicts Lifespan in Mammals* published in *Ecology and Evolution*.
