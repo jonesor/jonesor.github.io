@@ -25,7 +25,7 @@ Rendered output is written to `_site/`.
 ### Publish/update via GitHub
 
 1. Push changes to `main`.
-2. GitHub Actions runs [.github/workflows/publish.yml](/Users/jones/GitHubRepos/jonesor.github.io/.github/workflows/publish.yml), installs R plus required R packages, renders the site, and deploys it to GitHub Pages.
+2. GitHub Actions runs [.github/workflows/publish.yml](.github/workflows/publish.yml), installs R plus required R packages, renders the site, and deploys it to GitHub Pages.
 3. In repository settings, ensure Pages is configured to use **GitHub Actions** as the source.
 
 ## Customise content

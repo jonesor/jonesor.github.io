@@ -19,7 +19,7 @@ COMPADRE (plants) and COMADRE (animals) are open, curated repositories of matrix
 
 ## Open science and archived code
 
-I maintain code and software openly through GitHub, and archive project outputs on [Zenodo](https://zenodo.org/)  and the [Open Science Forum](https://osf.io/user/5f4ae) where possible to support reproducibility, transparency, and reuse. This reflects a broader commitment to open science as a practice rather than just a principle — from version-controlled analysis pipelines and documented workflows to openly published course materials and archived datasets. Shared code is written with reuse in mind, and where possible I aim to make analysis reproducible from raw data to final output. See [GitHub](https://github.com/jonesor) for current repositories.
+I maintain code and software openly through GitHub, and archive project outputs on [Zenodo](https://zenodo.org/)  and the [Open Science Framework](https://osf.io/user/5f4ae) where possible to support reproducibility, transparency, and reuse. This reflects a broader commitment to open science as a practice rather than just a principle, from version-controlled analysis pipelines and documented workflows to openly published course materials and archived datasets. Shared code is written with reuse in mind, and where possible I aim to make analysis reproducible from raw data to final output. See [GitHub](https://github.com/jonesor) for current repositories.
 
 
 ## Teaching books and apps
